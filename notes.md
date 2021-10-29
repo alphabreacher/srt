@@ -11,7 +11,7 @@ Just random stuffs I find interesting or worth putting down because I don’t us
 
 *  [Newspaper](https://srterm.github.io/srt/newspaper.html) articles regarding the founder's, their enterprises along with thier personal crises.
 
-*  CNBC [articles](https://suryanshthakur001.github.io/caLt3chKinG/company.html).
+*  CNBC [articles](https://srterm.github.io/srt/company.html).
 
 *  Sequoia Capital [stories](https://www.sequoiacap.com/india/) 
 
