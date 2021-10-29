@@ -7,7 +7,7 @@ layout: default
 <br>**🎓Alma-Mater:** [Kendriya Vidyalaya No.3, DC](https://no3delhicantt.kvs.ac.in/)
 <br> **📓Majoring In :**  _Biotechnology_. 
 
-<br>I read [Microeconomics](https://www.youtube.com/playlist?list=PLFNFJbo2hfBGRTCMuroZGykNzacwmAH2L), [Psychology](https://www.youtube.com/playlist?list=PL44ABC9278E2EE706) ,[Web3](https://www.youtube.com/playlist?list=PLxVihxZC42nF_MCN9PTvZMIifRjx9cZ2J), & listen [Lex Friedman](https://lexfridman.com/), [Joe Rogen](https://www.joerogan.com/) in my leisure time. Trying to make some vid's too here~ [**srt_erm**](https://www.youtube.com/channel/UCQqa01aV7uGL68uYpo2kVkg).
+<br>I read [Microeconomics](https://www.youtube.com/playlist?list=PLFNFJbo2hfBGRTCMuroZGykNzacwmAH2L), [Psychology](https://www.youtube.com/playlist?list=PL44ABC9278E2EE706) ,[Web3](https://www.youtube.com/playlist?list=PLxVihxZC42nF_MCN9PTvZMIifRjx9cZ2J), & listen [Lex Friedman](https://lexfridman.com/), [Joe Rogen](https://www.joerogan.com/) in my leisure time. My [Youtube](https://www.youtube.com/channel/UCQqa01aV7uGL68uYpo2kVkg).
 
 I started investing in capital markets since I turned 18, with the help of my brother-from-other-mother [Nithin Kamath](https://nithinkamath.me/) through his platform [Zerodha](https://zerodha.com/). If intersted in investing in crypto, do check out my bud [Vitalik](https://vitalik.ca/) and his creation [Ethereum](https://ethereum.org/en/).
 
