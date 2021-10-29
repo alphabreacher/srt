@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Articles, Blogpost & Books 
+##  Books, Articles & Blogpost:
 * Articles by [Growthbug](https://growthbug.com/) 
 
 * Articles by [Cred](https://cred.club/articles)
