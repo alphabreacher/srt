@@ -14,4 +14,4 @@ layout: default
 * Almanack of Naval Ravikant: [Web](https://www.navalmanack.com/almanack-of-naval-ravikant/table-of-contents) ; [PDF](https://navalmanack.s3.amazonaws.com/Eric-Jorgenson_The-Almanack-of-Naval-Ravikant_Final.pdf)
 
 
-[_yay_ back](https://suryanshthakur001.github.io/caLt3chKinG/blog.html)
+[_yay_ back](https://srterm.github.io/srt/blog.html)
