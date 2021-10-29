@@ -29,4 +29,4 @@ Just random stuffs I find interesting or worth putting down because I don’t us
 *  [BTC](https://bitcoin.org/bitcoin.pdf) whitepaper.
 
 
-[ _yay_ Home](https://suryanshthakur001.github.io/caLt3chKinG/)
+[ _yay_ Home](https://srterm.github.io/srt/)
