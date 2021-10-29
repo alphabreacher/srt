@@ -2,10 +2,10 @@
 layout: default
 ---
 
-## WEBSITES Of People I myself Admire:
+## Websites & Twitter handles of people I admire:
 
 
-*  Philosopher: [Naval Ravikant](https://nav.al/)
+*  Philosopher: [Naval Ravikant](https://nav.al/)  ;   [Twitter]()
   
 *  Stripe CEO: [Patrick Collison](http://patrickcollison.com/)
   
@@ -42,4 +42,4 @@ layout: default
 
 *  PHP Founder: [Lerdorf](https://toys.lerdorf.com/)
 
-[_yay_ back](https://suryanshthakur001.github.io/caLt3chKinG/blog.html)
+[_yay_ back](https://srterm.github.io/srt/blog.html)
