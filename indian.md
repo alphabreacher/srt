@@ -29,4 +29,4 @@ layout: default
 
 
 
-[_yay_ back](https://suryanshthakur001.github.io/caLt3chKinG/blog.html)
+[_yay_ back](https://srterm.github.io/srt/blog.html)
