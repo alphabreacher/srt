@@ -6,7 +6,7 @@ layout: default
 ```
 Randomised thoughts and articles are kept in here, these are awesome.
 ```
-* Attaching some of my [Hyperlink's](https://suryanshthakur001.github.io/caLt3chKinG/hyperlink.html) which contains Software, Comics & Movies.
+* Attaching some of my [Hyperlink's](https://srterm.github.io/srt/hyperlink.html) which contains Software, Comics & Movies.
 
 * Story of [Reliance Industries](https://www.ril.com/TheRelianceStory.aspx)
 
