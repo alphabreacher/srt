@@ -8,7 +8,7 @@ layout: default
 The first & foremost-final element.
 ```
 
-1. In this blog, are the [People](https://srterm.github.io/srt/websites.html) (there might be Youtube Channels if websites & twitter handle's aren't available on web at the time I'm curating this) who are awesome.
+1. In this blog, are the [People](https://srterm.github.io/srt/people.html) (there might be Youtube Channels if websites & twitter handle's aren't available on web at the time I'm curating this) who are awesome.
 
 
 2. This blog contain DRHP & websites of  [Indian Companies](https://srterm.github.io/srt/indian.html) I like and currently invested in.
