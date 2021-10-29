@@ -20,7 +20,7 @@ The first & foremost-final element.
 4. This is a curation of [failure](https://srterm.github.io/srt/failure.html) via people or in the respective Enterprise.
 
 
-5. This blog contains [books ,articles & blogs ](https://srterm.github.io/srt/bookartog.html) by other writers and companies.
+5. This blog contains [books ,articles & blogs ](https://srterm.github.io/srt/bookshelf.html) by other writers and companies.
 
 
 
