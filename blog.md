@@ -8,13 +8,13 @@ layout: default
 The first & foremost-final element.
 ```
 
-1. In this blog, I share the  [websites](https://srterm.github.io/srt/websites.html) (and maybe Youtube Channels if websites aren't available on web at the time I'm curating this) of the people who's thoughts are worth a read and should try to implement.
+1. In this blog, are the [People](https://srterm.github.io/srt/websites.html) (there might be Youtube Channels if websites & twitter handle's aren't available on web at the time I'm curating this) who are awesome.
 
 
-2. In this blog I'm curating the DRHP & websites of  [Indian Companies](https://srterm.github.io/srt/indian.html) I like and currently invested in.
+2. This blog contain DRHP & websites of  [Indian Companies](https://srterm.github.io/srt/indian.html) I like and currently invested in.
 
 
-3. In this blog I'm curating the SEC S-1 & websites of [American Companies](https://srterm.github.io/srt/american.html) I like to invest in.
+3. This blog contain SEC S-1 & websites of [American Companies](https://srterm.github.io/srt/american.html) I like to invest in.
 
 
 4. This is a curation of [failure](https://srterm.github.io/srt/failure.html) via people or in the respective Enterprise.
@@ -22,6 +22,15 @@ The first & foremost-final element.
 
 5. This blog contains [books ,articles & blogs ](https://srterm.github.io/srt/bookartog.html) by other writers and companies.
 
+
+
+## Quotes I Like:
+
+> - "There is a time in every man’s education when he arrives at the conviction that envy is ignorance; that imitation is suicide; that he must take himself for better, for worse, as his portion." ~ Ralph Eldo Emerson.
+ 
+> - "Talk is cheap. Show me the code." ~ Linus Torvalds
+
+>  - "चिंता ताकि कीजिये जो अनहोनी होय,अनहोनी होनी नहीं ,होनी होय सो होय |"  ~  तुलसीदास
 
  
 
