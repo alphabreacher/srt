@@ -12,4 +12,4 @@ layout: default
 
 4. Warren Buffet: [Inner-Outer Scorecard](https://www.inc.com/marcel-schwantes/warren-buffett-says-he-became-a-self-made-billionaire-because-he-played-by-1-simple-rule-of-life-which-most-people-dont.html)
 
-[_yay_ back](https://suryanshthakur001.github.io/caLt3chKinG/misc.html)
+[_yay_ back](https://srterm.github.io/srt/misc.html)
