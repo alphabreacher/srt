@@ -29,4 +29,4 @@ Long, NEWSPAPER: North Easr West South Past & Present Events Report. This area s
        
  
 
-[_yay_ back](https://suryanshthakur001.github.io/caLt3chKinG/)
+[_yay_ back](https://srterm.github.io/srt/)
