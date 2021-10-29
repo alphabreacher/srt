@@ -9,7 +9,7 @@ Just random stuffs I find interesting or worth putting down because I don’t us
 
 ## Inspiration
 
-*  [Newspaper](https://suryanshthakur001.github.io/caLt3chKinG/newspaper.html) articles regarding the founder's, their enterprises along with thier personal crises.
+*  [Newspaper](https://srterm.github.io/srt/newspaper.html) articles regarding the founder's, their enterprises along with thier personal crises.
 
 *  CNBC [articles](https://suryanshthakur001.github.io/caLt3chKinG/company.html).
 
