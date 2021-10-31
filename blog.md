@@ -32,21 +32,23 @@ The first & foremost-final element.
  
  **Linus Torvalds:**
  
-> "Software is like sex: it's better when it's free."
-> "Talk is cheap. Show me the code." 
+> "Software is like sex: it's better when it's free."<br>
+> "Talk is cheap. Show me the code."<br>
 
 
-** Nithin Kamath:**
+**Nithin Kamath:**
 
 > "Your dad & I might say same things, but you will prefer me over him due to the 😇 Halo effect." 
 
-** James Cameron:**
+**James Cameron:**
 
-> "If you set your goals ridiculously high and its a failure, you will fail above everyone elses success".
-> “Curiosity is the most powerful thing you own.”
-> “Imagination is a force that can actually manifest a reality.Don't put limitations on yourself.Others will do that for you.”
+> "If you set your goals ridiculously high and its a failure, you will fail above everyone elses success".<br>
+> “Curiosity is the most powerful thing you own.”<br>
+> “Imagination is a force that can actually manifest a reality.Don't put limitations on yourself.Others will do that for you.”<br>
 
-> "चिंता ताकि कीजिये जो अनहोनी होय,अनहोनी होनी नहीं ,होनी होय सो होय |"  ~  तुलसीदास
+**तुलसीदास**
+
+> "चिंता ताकि कीजिये जो अनहोनी होय,अनहोनी होनी नहीं ,होनी होय सो होय |"  
 
  
 
