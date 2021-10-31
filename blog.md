@@ -26,11 +26,27 @@ The first & foremost-final element.
 
 ## Quotes I Like:
 
-> - "There is a time in every man’s education when he arrives at the conviction that envy is ignorance; that imitation is suicide; that he must take himself for better, for worse, as his portion." ~ Ralph Eldo Emerson.
+ **Elon R. Musk:**
  
-> - "Talk is cheap. Show me the code." ~ Linus Torvalds
+> "When something is important enough, you do it even if the odds are not in your favor." 
+ 
+ **Linus Torvalds:**
+ 
+> "Software is like sex: it's better when it's free."
+> "Talk is cheap. Show me the code." 
 
->  - "चिंता ताकि कीजिये जो अनहोनी होय,अनहोनी होनी नहीं ,होनी होय सो होय |"  ~  तुलसीदास
+
+** Nithin Kamath:**
+
+> "Your dad & I might say same things, but you will prefer me over him due to the 😇 Halo effect." 
+
+** James Cameron:**
+
+> "If you set your goals ridiculously high and its a failure, you will fail above everyone elses success".
+> “Curiosity is the most powerful thing you own.”
+> “Imagination is a force that can actually manifest a reality.Don't put limitations on yourself.Others will do that for you.”
+
+> "चिंता ताकि कीजिये जो अनहोनी होय,अनहोनी होनी नहीं ,होनी होय सो होय |"  ~  तुलसीदास
 
  
 
