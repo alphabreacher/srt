@@ -11,6 +11,8 @@ Long, NEWSPAPER: North Easr West South Past & Present Events Report. This area s
 
 * 28/05/2018: I graduated from Class X. [88%]
 
+* 30/05/2018: [Here is my Youtube Channel](https://www.youtube.com/channel/UCQqa01aV7uGL68uYpo2kVkg). Subscribe!!
+
 * 24/07/2021: I officially graduated from Kendriya Vidyalaya No.3, D.C [94.3%]
 
 * 19/10/2021: May not be able to upload regularly, so hyperlinking my Youtube Playlist's
@@ -26,7 +28,8 @@ Long, NEWSPAPER: North Easr West South Past & Present Events Report. This area s
      * [Accounting 101](https://www.youtube.com/playlist?list=PLUkh9m2BorqmKaLrNBjKtFDhpdFdi8f7C)
      * [Foundation of Finance](https://www.youtube.com/playlist?list=PLUkh9m2BorqndWimijiJ-VCAXjJUrzJQU)
      * [IIM-A](https://youtube.com/playlist?list=PL8XqTmg5WK1PNvBEDukLubPeKAFipVpaH)
-       
+     * [Infinite History](https://www.youtube.com/playlist?list=PLKHPCGvTwsmHipWKuC0odotfNhFWSjN4k)
+    
  
 
 [_yay_ back](https://srterm.github.io/srt/)
