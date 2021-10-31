@@ -11,7 +11,7 @@ Long, NEWSPAPER: North Easr West South Past & Present Events Report. This area s
 
 * 28/05/2018: I graduated from Class X. [88%]
 
-* 30/05/2018: [Here is my Youtube Channel](https://www.youtube.com/channel/UCQqa01aV7uGL68uYpo2kVkg). Subscribe!!
+* 30/05/2018: [Here](https://www.youtube.com/channel/UCQqa01aV7uGL68uYpo2kVkg) is my Youtube Channel. Subscribe!!
 
 * 24/07/2021: I officially graduated from Kendriya Vidyalaya No.3, D.C [94.3%]
 
