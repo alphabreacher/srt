@@ -7,21 +7,13 @@ layout: default
 <br>**🎓Alma-Mater:** [Kendriya Vidyalaya No.3, DC](https://no3delhicantt.kvs.ac.in/)
 <br> **📓Majoring In :**  _Biotechnology_. 
 
-<br>I read [Microeconomics](https://www.youtube.com/playlist?list=PLFNFJbo2hfBGRTCMuroZGykNzacwmAH2L), [Psychology](https://www.youtube.com/playlist?list=PL44ABC9278E2EE706) ,[Web3](https://www.youtube.com/playlist?list=PLxVihxZC42nF_MCN9PTvZMIifRjx9cZ2J), & listen [Lex Friedman](https://lexfridman.com/), [Joe Rogen](https://www.joerogan.com/) in my leisure time. Make some vid's [here](https://www.youtube.com/channel/UCQqa01aV7uGL68uYpo2kVkg).
+<br>I read [Microeconomics](https://www.youtube.com/playlist?list=PLFNFJbo2hfBGRTCMuroZGykNzacwmAH2L), [Psychology](https://www.youtube.com/playlist?list=PL44ABC9278E2EE706) ,[Web3](https://www.youtube.com/playlist?list=PLxVihxZC42nF_MCN9PTvZMIifRjx9cZ2J), & listen [Lex Friedman](https://lexfridman.com/), [Joe Rogen](https://www.joerogan.com/) in my leisure time.
 
 I started investing in capital markets since I turned 18, with the help of my brother-from-other-mother [Nithin Kamath](https://nithinkamath.me/) through his platform [Zerodha](https://zerodha.com/). If intersted in investing in crypto, do check out my bud [Vitalik](https://vitalik.ca/) and his creation [Ethereum](https://ethereum.org/en/).
 
 Read the stories from [Index Daily](https://storiesindica.substack.com/) ; [The Last Bear Standing](https://thelastbearstanding.substack.com/archive?utm_source=menu-dropdown) ; [Mischef Managed](https://mischiefmanaged.substack.com/archive?utm_source=menu-dropdown) ; [The Quest Digest](https://thequestpod.substack.com/) via Substack.
 
-
-> Best pick's:
->
-> When something is important enough, you do it even if the odds are not in your favor.
-> 
-> Software is like sex: it's better when it's free.
-> 
-> Your dad & I might say same things, but you will prefer me over him due to the 😇 Halo effect.
-
+Visit my [blog](https://srterm.github.io/srt/blog.html) & [Youtube](https://www.youtube.com/channel/UCQqa01aV7uGL68uYpo2kVkg) to find out what I’ve been working on recently as well as other updates.
 
 * * * * * *
  
