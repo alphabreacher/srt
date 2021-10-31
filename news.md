@@ -30,6 +30,6 @@ Long, NEWSPAPER: North Easr West South Past & Present Events Report. This area s
      * [IIM-A](https://youtube.com/playlist?list=PL8XqTmg5WK1PNvBEDukLubPeKAFipVpaH)
      * [Infinite History](https://www.youtube.com/playlist?list=PLKHPCGvTwsmHipWKuC0odotfNhFWSjN4k)
     
- 
+      Unicode symbol for Ethereum is Greek capital letter Xi (Ξ); ⬨ or ⧫.
 
 [_yay_ back](https://srterm.github.io/srt/)
