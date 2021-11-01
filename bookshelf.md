@@ -17,7 +17,7 @@ layout: default
 
 * Delivering Happiness: [PDF](https://kingauthor.net/books/Tony%20Hsieh/Delivering%20Happiness/Delivering%20Happiness%20-%20Tony%20Hsieh.pdf)
 
-* [Life's Purpose](https://d3o9bzvr1aje7d.cloudfront.net/blog-subscription/ebooks/v3/Life+Purpose+-+Mark+Manson.pdf)
+* [Life's Purpose](https://d3o9bzvr1aje7d.cloudfront.net/blog-subscription/ebooks/v3/Life+Purpose+-+Mark+Manson.pdf) by Mark Manson.
 
 * Book's from [G-Drive](https://drive.google.com/drive/folders/1vPtWOOOsVXi8oI243PxEK9yIhO4hw_oE) shelf's.
 
