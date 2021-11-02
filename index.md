@@ -13,7 +13,7 @@ I started investing in capital markets since I turned 18, with the help of my br
 
 Read the stories from [Index Daily](https://storiesindica.substack.com/) ; [The Last Bear Standing](https://thelastbearstanding.substack.com/archive?utm_source=menu-dropdown) ; [Mischef Managed](https://mischiefmanaged.substack.com/archive?utm_source=menu-dropdown) ; [The Quest Digest](https://thequestpod.substack.com/) via Substack.
 
-Visit my [Blog](https://srterm.github.io/srt/blog.html) & [Youtube](https://www.youtube.com/channel/UCQqa01aV7uGL68uYpo2kVkg) to find out what I’ve been working on recently as well as other updates.
+Visit my ![YouTube](https://cdn.emojidex.com/emoji/px32/YouTube.png "YouTube") [Youtube](https://www.youtube.com/channel/UCQqa01aV7uGL68uYpo2kVkg) & [Blog](https://srterm.github.io/srt/blog.html) to find out what I’ve been working on recently as well as other updates.
 
 * * * * * *
  
