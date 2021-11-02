@@ -68,7 +68,15 @@ The first & foremost-final element.
  
 > * "Fear is the mind-killer."
 
-
-
+ **George R.R. Martin**
+ > * "Once you’ve accepted your flaws, no one can use them against you."
+  
+ > * "Laughter is poison to fear."
+  
+ > * "Why is it that when one man builds a wall, the next man immediately needs to know what's on the other side?"
+  
+ > * "Death is so terribly final, while life is full of possibilities."
+  
+ > * "The things we love destroy us every time, lad. Remember that."
 
 [_yay_ back](./)
