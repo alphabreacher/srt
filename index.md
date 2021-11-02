@@ -5,7 +5,7 @@ layout: default
    Hey QT3.14  I'm **Suryansh Thakur.** 
 
 <br>**🎓Alma-Mater:** [Kendriya Vidyalaya No.3, DC](https://no3delhicantt.kvs.ac.in/)
-<br> **📓Majoring In :**  _Biotechnology_. 
+<br> **📓Majoring In :**  _Biotechnology_. [newweb](https://longpdo.github.io/neumorphism/)
 
 <br>I read [Microeconomics](https://www.youtube.com/playlist?list=PLFNFJbo2hfBGRTCMuroZGykNzacwmAH2L), [Psychology](https://www.youtube.com/playlist?list=PL44ABC9278E2EE706) ,[Web3](https://www.youtube.com/playlist?list=PLxVihxZC42nF_MCN9PTvZMIifRjx9cZ2J), & listen [Lex Friedman](https://lexfridman.com/), [Joe Rogen](https://www.joerogan.com/) in my leisure time.
 
