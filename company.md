@@ -17,4 +17,4 @@ layout: default
 6. Elon Musk: [Get Out Professor](https://www.cnbc.com/2020/02/03/billionaire-elon-musk-told-this-harvard-professor-to-get-out-of-a-meeting.html)
 
 
-[_yay_ back](https://srterm.github.io/srt/misc.html)
+[_yay_ back](https://srterm.github.io/srt/notes.html)
