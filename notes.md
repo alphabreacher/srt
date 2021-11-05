@@ -24,9 +24,18 @@ Just random stuffs I find interesting or worth putting down because I don’t us
 
 *  Online Master's in Business Management: [MBA](https://www.learnwithpinglr.com/free-mba-list) curated by Sahil.
 
-*  [Mad Over Marketing](https://mad-over-marketing.com/)
+*  BTC [whitepaper](https://bitcoin.org/bitcoin.pdf).
+ 
+*  Stanford Encyclopedia of Philosophy [Dualism](https://plato.stanford.edu/entries/dualism/).
 
-*  [BTC](https://bitcoin.org/bitcoin.pdf) whitepaper.
+
+## Websites that didn't fulfilled description.
+
+*  [Mad Over Marketing](https://mad-over-marketing.com/) 
+
+*  [Data Insight's](https://www.thebizdom.in/)
+
+*  [Visual Capitalist](https://www.visualcapitalist.com/)
 
 
 [ _yay_ Home](https://srterm.github.io/srt/)
