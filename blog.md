@@ -23,6 +23,7 @@ The first & foremost-final element.
 5. This blog contains [books ,articles & blogs ](https://srterm.github.io/srt/bookshelf.html) by other writers and companies.
 
 
+6. This blog contains [Quotes](https://srterm.github.io/quotes/)
 
 ## Quotes I Like:
 
