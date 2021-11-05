@@ -7,4 +7,4 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jemoji
-bgtext: "ABCFGHKLMNPQRSVWXYZ1234567890abcdefghijklmnopqrstuvwxyz@#$%&*+-;/[]<>~" # texts randomly displayed in background
+
