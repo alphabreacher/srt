@@ -12,6 +12,9 @@ Randomised thoughts and articles are kept in here, these are awesome.
 
 * Dr.Reddy's [founder](https://www.drreddys.com/our-story/our-heritage/our-founder/) message.
 
+* [Unskilled and Unaware of It:](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.64.2655&rep=rep1&type=pdf) How Difficulties in Recognizing One's Own
+Incompetence Lead to Inflated Self-Assessments.
+
 * How does plastic money i.e [cards](https://razorpay.com/blog/how-online-card-payments-work/) work.
 
 * Stephan Hawking's Voice Opensouce Code: [ACAT- Voice](https://github.com/intel/acat/releases)
