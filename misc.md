@@ -12,8 +12,6 @@ Randomised thoughts and articles are kept in here, these are awesome.
 
 * Dr.Reddy's [founder](https://www.drreddys.com/our-story/our-heritage/our-founder/) message.
 
-* How Girish Mathrubootham founded [Freshwork](https://www.entrepreneur.com/amphtml/324667).
-
 * How does plastic money i.e [cards](https://razorpay.com/blog/how-online-card-payments-work/) work.
 
 * Stephan Hawking's Voice Opensouce Code: [ACAT- Voice](https://github.com/intel/acat/releases)
