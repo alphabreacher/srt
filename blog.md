@@ -11,19 +11,20 @@ The first & foremost-final element.
 1. In this blog, are the [People](https://srterm.github.io/srt/people.html) (there might be Youtube Channels if websites & twitter handle's aren't available on web at the time I'm curating this) who are awesome.
 
 
-2. This blog contain DRHP & websites of  [Indian Companies](https://srterm.github.io/srt/indian.html) I like.
+2. This blog contains [books ,articles & blogs ](https://srterm.github.io/srt/bookshelf.html) by other writers and companies.
 
 
-3. This blog contain SEC S-1 & websites of [American Companies](https://srterm.github.io/srt/american.html) I like.
+3. This is a curation of [failure](https://srterm.github.io/srt/failure.html) via people or in the respective Enterprise.
 
 
-4. This is a curation of [failure](https://srterm.github.io/srt/failure.html) via people or in the respective Enterprise.
+4. This blog contain DRHP & websites of  [Indian Companies](https://srterm.github.io/srt/indian.html) I like.
 
 
-5. This blog contains [books ,articles & blogs ](https://srterm.github.io/srt/bookshelf.html) by other writers and companies.
+5. This blog contain SEC S-1 & websites of [American Companies](https://srterm.github.io/srt/american.html) I like.
 
 
-6. This blog contains [Quotes](https://srterm.github.io/quotes/)
+
+
 
 ## Quotes I Like:
 
@@ -79,5 +80,27 @@ The first & foremost-final element.
  > * "Death is so terribly final, while life is full of possibilities."
   
  > * "The things we love destroy us every time, lad. Remember that."
+
+
+ **Jeffrey P. Bezos**
+> * "Start With the Customer and Work Backward"
+ 
+> * "I know that if I failed I wouldn’t regret that, but I know the one thing I might regret is not trying."
+ 
+> * "Work Hard, have fun, make history"
+ 
+> * "If you never want to be criticized, for goodness' sake don't do anything new."
+ 
+> * "People who are right most of the time are people who change their minds often."
+ 
+> * “Your margin is my opportunity”
+ 
+> * "If you decide that you’re going to do only the things you know are going to work, you’re going to leave a lot of opportunity on the table."
+ 
+> * "Invention is by its very nature disruptive. If you want to be understood at all times, then don't do anything new."
+
+> * "I wanted a woman who could get me out of a Third World prison. Life's too short to hang out with people who aren't resourceful."
+ 
+> * "A brand for a company is like a reputation for a person. You earn reputation by trying to do hard things well."
 
 [_yay_ back](./)
