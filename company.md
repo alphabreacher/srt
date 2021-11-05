@@ -12,4 +12,9 @@ layout: default
 
 4. Warren Buffet: [Inner-Outer Scorecard](https://www.inc.com/marcel-schwantes/warren-buffett-says-he-became-a-self-made-billionaire-because-he-played-by-1-simple-rule-of-life-which-most-people-dont.html)
 
+5. Josh Tetrick: [4 Pieces of Advice](https://www.cnbc.com/2021/03/03/advice-for-starting-a-business-from-multibillion-dollar-eat-just.html)
+
+6. Elon Musk: [Get Out Professor](https://www.cnbc.com/2020/02/03/billionaire-elon-musk-told-this-harvard-professor-to-get-out-of-a-meeting.html)
+
+
 [_yay_ back](https://srterm.github.io/srt/misc.html)
