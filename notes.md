@@ -37,5 +37,9 @@ Just random stuffs I find interesting or worth putting down because I don’t us
 
 *  [Visual Capitalist](https://www.visualcapitalist.com/)
 
+*  [Wikipedia](https://www.wikipedia.org/) the free Encyclopedia.
+
+*  [Investopedia](https://www.investopedia.com/)
+
 
 [ _yay_ Home](https://srterm.github.io/srt/)
