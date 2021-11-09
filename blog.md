@@ -11,7 +11,7 @@ The first & foremost-final element.
 1. In this blog, are the [people](https://srterm.github.io/srt/people.html) (there might be Youtube Channels if websites & twitter handle's aren't available on web at the time I'm curating this) who are awesome.
 
 
-2. [Advice](https://srterm.github.io/srt/advice.html) from my side; It will only be completed if I get any wiser. 
+2. [Advice](https://srterm.github.io/srt/advice.html) from my side; It will only be completed if I get any wiser. BTW the [Quotes](./) below should work like adive too.
 
 
 3. This blog contains [books ,articles & blogs ](https://srterm.github.io/srt/bookshelf.html) by other writers and companies.
