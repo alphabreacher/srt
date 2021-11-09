@@ -16,4 +16,4 @@ printf("hello, world\n");
 }
 ```
 
-[_yay_ back](./)
+[_yay_ back](https://srterm.github.io/srt/blog.html)
