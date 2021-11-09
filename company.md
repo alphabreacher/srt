@@ -16,7 +16,7 @@ layout: default
 
 6. Elon Musk: [Get Out Professor](https://www.cnbc.com/2020/02/03/billionaire-elon-musk-told-this-harvard-professor-to-get-out-of-a-meeting.html)
  
-7. Steve Wozniak :[Offered Apple-1 design five times H.P](https://appleinsider.com/articles/10/12/07/apple_co_founder_offered_first_computer_design_to_hp_5_times/amp/)
+7. Steve Wozniak :[Offered Apple-1 design five times to H.P](https://appleinsider.com/articles/10/12/07/apple_co_founder_offered_first_computer_design_to_hp_5_times/amp/)
 
 
 [_yay_ back](https://srterm.github.io/srt/notes.html)
