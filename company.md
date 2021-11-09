@@ -15,6 +15,8 @@ layout: default
 5. Josh Tetrick: [4 Pieces of Advice](https://www.cnbc.com/2021/03/03/advice-for-starting-a-business-from-multibillion-dollar-eat-just.html)
 
 6. Elon Musk: [Get Out Professor](https://www.cnbc.com/2020/02/03/billionaire-elon-musk-told-this-harvard-professor-to-get-out-of-a-meeting.html)
+ 
+7. Steve Wozniak :[Offered Apple 1 design 5 times H.P](https://appleinsider.com/articles/10/12/07/apple_co_founder_offered_first_computer_design_to_hp_5_times/amp/)
 
 
 [_yay_ back](https://srterm.github.io/srt/notes.html)
