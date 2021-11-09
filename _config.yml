@@ -1,5 +1,7 @@
 title: srt_erm
 description: S.T.A.R Laboratories
+url: "https://srterm.github.io"
+baseurl: "/starlabs"
 show_downloads: false
 google_analytics: G-LJFC189LR6
 remote_theme: jekyll-theme-minimalist
