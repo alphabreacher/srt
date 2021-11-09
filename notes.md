@@ -22,24 +22,14 @@ Just random stuffs I find interesting or worth putting down because I don’t us
 
 ## Some of the things I like ~
 
-*  Online Master's in Business Management: [MBA](https://www.learnwithpinglr.com/free-mba-list) curated by Sahil.
+*  Online Master's in Business Management: [MBA](https://www.learnwithpinglr.com/free-mba-list) curated by [Sahil](https://twitter.com/sahilypatel?lang=en).
 
-*  BTC [whitepaper](https://bitcoin.org/bitcoin.pdf).
+*  [BTC](https://bitcoin.org/bitcoin.pdf) whitepaper.
  
-*  Stanford Encyclopedia of Philosophy [Dualism](https://plato.stanford.edu/entries/dualism/).
+*  Stanford Encyclopedia of Philosophy: [Dualism](https://plato.stanford.edu/entries/dualism/).
 
-
-## Websites that didn't fulfilled description.
-
-*  [Mad Over Marketing](https://mad-over-marketing.com/) 
-
-*  [Data Insight's](https://www.thebizdom.in/)
-
-*  [Visual Capitalist](https://www.visualcapitalist.com/)
-
-*  [Wikipedia](https://www.wikipedia.org/) the free Encyclopedia.
-
-*  [Investopedia](https://www.investopedia.com/)
+*  Wikipedia: [Eponymous Law's](https://en.m.wikipedia.org/wiki/List_of_eponymous_laws)
+ 
 
 
 [ _yay_ Home](https://srterm.github.io/srt/)
