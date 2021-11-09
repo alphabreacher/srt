@@ -2,9 +2,9 @@
 layout: default
 ---
 
-## Welcome to my BLOG
+## Advice: A bit of my Personal Wisdom....
 
-_yay_
+
 
 ```ruby
  Will write and curate sometimes
@@ -16,4 +16,4 @@ printf("hello, world\n");
 }
 ```
 
-[back](./)
+[_yay_ back](./)
