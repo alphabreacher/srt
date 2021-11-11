@@ -26,7 +26,7 @@ layout: default
 | GitLab Founder                      | [Sid Sijbrandij](https://sytse.com/)                                                                                 | [sytses](https://twitter.com/sytses?lang=en)                                   |
 | Github Co-founder                   | [Tom Preston Werner](https://tom.preston-werner.com/)                                                                | [mojombo](https://twitter.com/mojombo?lang=en)                                 |
 | Github Co-founder                   | [Scott Chacon](http://scottchacon.com/)                                                                              | [chacon](https://twitter.com/chacon?lang=en)                                   |
- 
+| Y-Combinator founder                | [Paul Graham](http://www.paulgraham.com/)                                                                            | [paulg](https://twitter.com/paulg?lang=en)
 
 
 
