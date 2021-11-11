@@ -38,7 +38,7 @@ Visit my [YouTube](https://www.youtube.com/channel/UCQqa01aV7uGL68uYpo2kVkg) & [
 
 * * * * * *
 
-<a class="twitter-timeline" data-width="650" data-height="450" data-theme="dark" href="https://twitter.com/srt_erm?ref_src=twsrc%5Etfw">Tweets by Suryansh Thakur</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-width="650" data-height="450" data-theme="dark" href="https://twitter.com/alphabreacher?ref_src=twsrc%5Etfw">Tweets by Suryansh Thakur</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 <!--
