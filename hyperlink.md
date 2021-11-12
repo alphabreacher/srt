@@ -4,7 +4,7 @@ layout: default
 
 ## Hyperlink's
 
-* For any [Data](https://srterm.github.io/srt/otherweb.html) like Wikipedia; Medical Journals ; Visuals etc..
+* For any [data webpages](https://srterm.github.io/srt/otherweb.html) like Shadow Library; Wikipedia; Medical Journals; Visuals etc..
 
 * Want any Software, Comic, Game,or anything that you many like it's here: [PiratesBay](https://thepiratebay.org/index.html)
 
