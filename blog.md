@@ -13,10 +13,10 @@ The first & foremost-final element.
 * [Advice](https://srterm.github.io/srt/advice.html) from my side; It will only be completed if I get any wiser, btw the quotes below should work like adivce too.
 
 
-* This blog contains Data [Insight](https://srterm.github.io/srt/otherweb.html) webpage's.
+* This blog contains [Data-Insight](https://srterm.github.io/srt/otherweb.html) webpage's.
 
 
-* This blog contains [books ,articles & blogs ](https://srterm.github.io/srt/bookshelf.html) by other writers and companies.
+* This blog contains a [Bookshelf](https://srterm.github.io/srt/bookshelf.html).
 
 
 * This is a curation of [failure](https://srterm.github.io/srt/failure.html) via people or in the respective Enterprise.
