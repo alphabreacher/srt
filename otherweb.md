@@ -3,12 +3,7 @@ layout: default
 ---
 
 ## Data Library//
-```
-#include
-int main(void)
-{
-printf("hello, world\n");
-}
+```from Medical Journals to Visual your ABC.
 ```
 * [Wikipedia](https://www.wikipedia.org/)                            
 * [Bloomberg Market](https://www.bloomberg.com/markets)               
