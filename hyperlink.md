@@ -15,4 +15,4 @@ layout: default
 * [Router settings](http://192.168.0.1/) for internet.
 
 
-[_yay_ back](https://srterm.github.io/srt/misc.html)
+[_yay_ back](https://srterm.github.io/srt/blog.html)
