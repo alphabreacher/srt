@@ -10,7 +10,7 @@ int main(void)
 printf("hello, world\n");
 }
 ```
-|                    Domain/ Arena along-with Webpages               |
+|                    Domain                                          |
 |:-------------------------------------------------------------------|
 | [Wikipedia](https://www.wikipedia.org/)                            |
 | [Bloomberg Market](https://www.bloomberg.com/markets)              | 
