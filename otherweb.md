@@ -12,7 +12,7 @@ layout: default
 * [Visual Capitalist](https://www.visualcapitalist.com/)             
 * [Libgen](http://libgen.is/) Server-I                               
 * [Libgen](https://libgen.li/) Server-II                           
-
+* [Khan Academy](https://www.khanacademy.org/)
 
 
 [_yay_ back](https://srterm.github.io/srt/blog.html)
