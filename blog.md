@@ -13,7 +13,7 @@ The first & foremost-final element.
 * [Advice](https://srterm.github.io/srt/advice.html) from my side; It will only be completed if I get any wiser, btw the quotes below should work like adivce too.
 
 
-* This blog contains [Data-Insight](https://srterm.github.io/srt/otherweb.html) webpage's.
+* This blog contains [Data-Insight](https://srterm.github.io/srt/otherweb.html) webpage's. Attaching some of my [Hyperlink's](https://srterm.github.io/srt/hyperlink.html) which contains Software, Comics & Movies.
 
 
 * This blog contains a [Bookshelf](https://srterm.github.io/srt/bookshelf.html).
