@@ -13,7 +13,7 @@ The first & foremost-final element.
 * [Advice](https://srterm.github.io/srt/advice.html) from my side; It will only be completed if I get any wiser, btw the quotes below should work like adivce too.
 
 
-* This blog contain some of my [Hyperlink's](https://srterm.github.io/srt/hyperlink.html) which contains a Millennium Falcon Library of Books; Journal's; Movie's; Comic's; Software.
+* This blog contain some of my [Hyperlink's](https://srterm.github.io/srt/hyperlink.html) which contains a Millennium Falcon like library of [Book; Journal; Movie; Comic; Software]'s.
 
 
 * This blog contains a [Bookshelf](https://srterm.github.io/srt/bookshelf.html).
