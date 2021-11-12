@@ -18,7 +18,7 @@ printf("hello, world\n");
 | [Data Insight's](https://www.thebizdom.in/)                        |
 | [Visual Capitalist](https://www.visualcapitalist.com/)             |
 | [Libgen](http://libgen.is/) Server-I                               |
-   *[Libgen](https://libgen.li/) Server-II                           |
+   * [Libgen](https://libgen.li/) Server-II                           |
 
 
 
