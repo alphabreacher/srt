@@ -10,15 +10,13 @@ int main(void)
 printf("hello, world\n");
 }
 ```
-|                    Domain                                          |
-|:-------------------------------------------------------------------|
-| [Wikipedia](https://www.wikipedia.org/)                            |
-| [Bloomberg Market](https://www.bloomberg.com/markets)              | 
-| [Mad Over Marketing](https://mad-over-marketing.com/)              | 
-| [Data Insight's](https://www.thebizdom.in/)                        |
-| [Visual Capitalist](https://www.visualcapitalist.com/)             |
-| [Libgen](http://libgen.is/) Server-I                               |
-| * [Libgen](https://libgen.li/) Server-II                           |
+* [Wikipedia](https://www.wikipedia.org/)                            
+* [Bloomberg Market](https://www.bloomberg.com/markets)               
+* [Mad Over Marketing](https://mad-over-marketing.com/)               
+* [Data Insight's](https://www.thebizdom.in/)                        
+* [Visual Capitalist](https://www.visualcapitalist.com/)             
+* [Libgen](http://libgen.is/) Server-I                               
+* [Libgen](https://libgen.li/) Server-II                           
 
 
 
