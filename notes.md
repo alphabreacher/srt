@@ -21,6 +21,7 @@ Just random stuffs I find interesting or worth putting down because I don’t us
 
 
 ## Some of the things I like ~
+*  World Wide Web [Proposal](https://www.w3.org/Proposal.html)
 
 *  Online Master's in Business Management: [MBA](https://www.learnwithpinglr.com/free-mba-list) curated by [Sahil](https://twitter.com/sahilypatel?lang=en).
 
