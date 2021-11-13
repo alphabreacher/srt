@@ -7,6 +7,7 @@ layout: default
 ```
 * [Wikipedia](https://www.wikipedia.org/)                            
 * [Bloomberg Market](https://www.bloomberg.com/markets)               
+* [Internet Archive](https://archive.org/)
 * [Mad Over Marketing](https://mad-over-marketing.com/)               
 * [Data Insight's](https://www.thebizdom.in/)                        
 * [Visual Capitalist](https://www.visualcapitalist.com/)             
