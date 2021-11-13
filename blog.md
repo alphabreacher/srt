@@ -10,7 +10,7 @@ The first & foremost-final element.
 * In this blog, are the [people](https://srterm.github.io/srt/people.html) (there might be Youtube Channels if websites & twitter handle's aren't available on web at the time I'm curating this) who are awesome.
 
 
-* [Advice](https://srterm.github.io/srt/advice.html) from my side; It will only be completed if I get any wiser, btw the quotes below should work like adivce too.
+* [Advice](https://srterm.github.io/srt/advice.html) from my side & some of the most interesting people; It will only be completed if I get any wiser, btw the quotes below should work like adivce too.
 
 
 * This blog contain some of my [Hyperlink's](https://srterm.github.io/srt/hyperlink.html) which contains a Millennium Falcon like library of [Book; Journal; Movie; Comic; Software]'s.
