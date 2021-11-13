@@ -13,6 +13,6 @@ layout: default
 * [Libgen](http://libgen.is/) Server-I                               
 * [Libgen](https://libgen.li/) Server-II                           
 * [Khan Academy](https://www.khanacademy.org/)
-* [National Centre for Biotechnology Information](https://www.ncbi.nlm.nih.gov/)
+* [NCBI](https://www.ncbi.nlm.nih.gov/)
 
 [_yay_ back](https://srterm.github.io/srt/blog.html)
