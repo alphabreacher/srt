@@ -15,10 +15,10 @@ int main(void)
 printf("hello, world\n");
 }
 ```
-
+01.
 <script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="durov/137" data-width="100%"></script>
 
-
+02.
 <script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="durov/171" data-width="100%"></script>
 
 
