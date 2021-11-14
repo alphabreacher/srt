@@ -27,6 +27,12 @@ The first & foremost-final element.
 
 * This blog contain SEC S-1 & websites of [American Companies](https://srterm.github.io/srt/american.html) I like. 
 
-
+<script src="https://utteranc.es/client.js"
+        repo="[srterm/srt]"
+        issue-term="pathname"
+        theme="preferred-color-scheme"
+        crossorigin="anonymous"
+        async>
+</script>
 
 [_yay_ back](./)
