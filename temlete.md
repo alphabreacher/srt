@@ -1,13 +1,4 @@
 ---
 layout: default
 ---
-
-## templete
-
-<a class="twitter-follow-button"
-  href="https://twitter.com/alphabreacher"
-  data-size="large"
-  data-show-count="false" >
-Follow @Suryansh Thakur</a>
-
-[_yay_ back](./)
+<a href="https://twitter.com/alphabreacher" class="twitter-follow-button" data-show-count="false">Follow @alphabreacher</a><br/>
