@@ -8,7 +8,7 @@ layout: default
 * [SEBI: Draft Red Herring Prospectus](https://www.online.citibank.co.in/portal/co/InfoEdge_DRHP.pdf)
  
  
-2. [IRCTC](https://www.irctc.com/)    <p class="sc-embed" data-width="500px" data-orders="%5B%7B%22quantity%22%3A10%2C%22ticker%22%3A%22IRCTC%22%7D%5D" data-cardsize="big" data-withtt="true" data-withsearch="true" style="width:500px;min-height:300px;display:flex;align-items:center;justify-content:center"> <strong>loading widget to trade IRCTC</strong> </p> <script async src="https://www.gateway-tt.in/assets/embed.js"></script> 
+2. [IRCTC](https://www.irctc.com/)    [TickerTape](https://www.gateway-tt.in/trade?orderConfig=%5B%7B%22quantity%22%3A10%2C%22ticker%22%3A%22IRCTC%22%7D%5D&cardsize=big&withSearch=true&withTT=true)
 * [SEBI: Draft Red Herring Prospectus](https://idbicapital.com/pdf/IRCTC%20Limited%20-Prospectus.pdf)
 
 
