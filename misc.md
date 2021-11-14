@@ -7,6 +7,8 @@ layout: default
 Randomised thoughts and articles are kept in here, these are awesome.
 ```
 
+* Online Master's in Business Management: [MBA](https://www.learnwithpinglr.com/free-mba-list) curated by [Sahil](https://twitter.com/sahilypatel?lang=en).
+
 * Story of [Reliance Industries](https://www.ril.com/TheRelianceStory.aspx)
 
 * Dr.Reddy's [founder](https://www.drreddys.com/our-story/our-heritage/our-founder/) message.
@@ -18,7 +20,7 @@ Incompetence Lead to Inflated Self-Assessments. *pdf*
 
 * Stephan Hawking's Voice Opensouce Code: [ACAT- Voice](https://github.com/intel/acat/releases)
 
-* [Net-Scape](https://web.archive.org/web/19981202191343/http://home.netscape.com/index.html)
+* [NetScape](https://web.archive.org/web/19981202191343/http://home.netscape.com/index.html) 
 
 * M.I.T [Curriculum Guide](https://ocw.mit.edu/courses/mit-curriculum-guide/#map)
 
