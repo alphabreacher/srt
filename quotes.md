@@ -95,4 +95,16 @@ layout: default
 > *"Growth has no limit at Reliance. I keep revising my vision. Only when you dream it you can do it."
 
 > *"Our dreams have to be bigger. Our ambitions higher. Our commitment deeper. And our efforts greater. This is my dream for Reliance and for India. "
+
+
+
+
+
+
+
+
+
+
+
+
 [_yay_ back](https://srterm.github.io/srt/blog.html)
