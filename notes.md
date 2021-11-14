@@ -9,10 +9,6 @@ Just random stuffs I find interesting or worth putting down because I don’t us
 
 ## Inspiration & some of the things I like ~
 
-*  [Newspaper](https://srterm.github.io/srt/newspaper.html) articles regarding the founder's, their enterprises along with thier personal crises.
-
-*  CNBC [articles](https://srterm.github.io/srt/company.html).
-
 *  Sequoia Capital [stories](https://www.sequoiacap.com/india/) 
 
 *  Fortune Magazine [stories](https://linktr.ee/fortuneindia).
