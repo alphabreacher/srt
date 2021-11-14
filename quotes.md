@@ -86,4 +86,4 @@ layout: default
 > * "Original thinking is the hardest work there is; it is also the most rewarding."
 
 
-[_yay_ back](./)
+[_yay_ back](https://srterm.github.io/srt/blog.html)
