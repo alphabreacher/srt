@@ -86,15 +86,15 @@ layout: default
 > * "Original thinking is the hardest work there is; it is also the most rewarding."
 
  **Dhirubhai Ambani**
-> *"Pursue your goals even in the face of difficulties, and convert adversities into opportunities."
+> * "Pursue your goals even in the face of difficulties, and convert adversities into opportunities."
 
-> *"Meeting the deadlines is not good enough, beating the deadlines is my expectation."
+> * "Meeting the deadlines is not good enough, beating the deadlines is my expectation."
 
-> *"If you don't build your dream, someone else will hire you to help them build theirs."
+> * "If you don't build your dream, someone else will hire you to help them build theirs."
 
-> *"Growth has no limit at Reliance. I keep revising my vision. Only when you dream it you can do it."
+> * "Growth has no limit at Reliance. I keep revising my vision. Only when you dream it you can do it."
 
-> *"Our dreams have to be bigger. Our ambitions higher. Our commitment deeper. And our efforts greater. This is my dream for Reliance and for India. "
+> * "Our dreams have to be bigger. Our ambitions higher. Our commitment deeper. And our efforts greater. This is my dream for Reliance and for India. "
 
 
 
