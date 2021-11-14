@@ -8,11 +8,11 @@ layout: default
 <br>**🎓Alma-Mater:** [Kendriya Vidyalaya No.3, DC](https://no3delhicantt.kvs.ac.in/)
 <br> **📓Majoring In :**  _Biotechnology_.
 
-<br>I read [Microeconomics](https://www.youtube.com/playlist?list=PLFNFJbo2hfBGRTCMuroZGykNzacwmAH2L), [Psychology](https://www.youtube.com/playlist?list=PL44ABC9278E2EE706) ,[Web3](https://www.youtube.com/playlist?list=PLxVihxZC42nF_MCN9PTvZMIifRjx9cZ2J), & listen [Lex Friedman](https://lexfridman.com/), [Joe Rogen](https://www.joerogan.com/) in my leisure time.
+<br>I read [Microeconomics](https://www.youtube.com/playlist?list=PLFNFJbo2hfBGRTCMuroZGykNzacwmAH2L), [Psychology](https://www.youtube.com/playlist?list=PL44ABC9278E2EE706) ,[Web3](https://www.youtube.com/playlist?list=PLxVihxZC42nF_MCN9PTvZMIifRjx9cZ2J), & listen [Joe Rogen](https://www.joerogan.com/), [Lex Friedman](https://lexfridman.com/) in my leisure time.
 
 I started investing in capital markets since I turned 18, with the help of my brother-from-other-mother [Nithin Kamath](https://nithinkamath.me/) through his platform [Zerodha](https://zerodha.com/). If intersted in investing in crypto, do check out my bud [Vitalik](https://vitalik.ca/) and his creation [Ethereum](https://ethereum.org/en/).
 
-Read the stories from [Index Daily](https://storiesindica.substack.com/) ; [The Last Bear Standing](https://thelastbearstanding.substack.com/archive?utm_source=menu-dropdown) ; [Mischef Managed](https://mischiefmanaged.substack.com/archive?utm_source=menu-dropdown) ; [The Quest Digest](https://thequestpod.substack.com/) via Substack.
+Read the stories from creaters via [Substack](https://srterm.github.io/srt/substackhtml).
 
 Visit my [YouTube](https://www.youtube.com/channel/UCQqa01aV7uGL68uYpo2kVkg) & [Blog](https://srterm.github.io/srt/blog.html) to find out what I’ve been working on recently as well as other updates.
 
