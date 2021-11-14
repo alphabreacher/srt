@@ -110,5 +110,7 @@ The first & foremost-final element.
  **A.P.J. Abdul Kalam**
 > * "Dream is not that which you see while sleeping; it is something that does not let you sleep."
 
+ **Jay S. Walker**
+> * "Original thinking is the hardest work there is; it is also the most rewarding."
 
 [_yay_ back](./)
