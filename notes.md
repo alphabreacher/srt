@@ -7,7 +7,7 @@ layout: default
 Just random stuffs I find interesting or worth putting down because I don’t use bookmark sync 👽. This page is subject to change.
 
 
-## Inspiration
+## Inspiration & some of the things I like ~
 
 *  [Newspaper](https://srterm.github.io/srt/newspaper.html) articles regarding the founder's, their enterprises along with thier personal crises.
 
@@ -19,11 +19,11 @@ Just random stuffs I find interesting or worth putting down because I don’t us
 
 *  World's richest [people](https://www.forbes.com/real-time-billionaires/#149c9fe03d78) and their [sharehodling](https://www.investopedia.com/articles/investing/012715/5-richest-people-world.asp) pattern.~[Sorces: Forbes & Investopedia]
 
+*  [TIMELINE OF THE HUMAN CONDITION](https://www.southampton.ac.uk/~cpd/history.html)— Milestones in Evolution and History -
 
-## Some of the things I like ~
 *  World Wide Web [Proposal](https://www.w3.org/Proposal.html)
 
-*  Online Master's in Business Management: [MBA](https://www.learnwithpinglr.com/free-mba-list) curated by [Sahil](https://twitter.com/sahilypatel?lang=en).
+*  Thu Jan 8 14:27:40 EST 2009 [Bitcoin v1 ](https://www.metzdowd.com/pipermail/cryptography/2009-January/014994.html)
 
 *  [BTC](https://bitcoin.org/bitcoin.pdf) whitepaper.
  
