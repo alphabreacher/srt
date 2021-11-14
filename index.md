@@ -12,7 +12,7 @@ layout: default
 
 I started investing in capital markets since I turned 18, with the help of my brother-from-other-mother [Nithin Kamath](https://nithinkamath.me/) through his platform [Zerodha](https://zerodha.com/). If intersted in investing in crypto, do check out my bud [Vitalik](https://vitalik.ca/) and his creation [Ethereum](https://ethereum.org/en/).
 
-Read the stories from creaters via [Substack](https://srterm.github.io/srt/substackhtml).
+Read the stories from creaters via [Substack](https://srterm.github.io/srt/substack.html).
 
 Visit my [YouTube](https://www.youtube.com/channel/UCQqa01aV7uGL68uYpo2kVkg) & [Blog](https://srterm.github.io/srt/blog.html) to find out what I’ve been working on recently as well as other updates.
 
