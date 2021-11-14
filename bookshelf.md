@@ -4,8 +4,6 @@ layout: default
 
 ##  Reader's Section:
 
-* Articles by [Growthbug](https://growthbug.com/) 
-
 * Articles by [Cred](https://cred.club/articles)
  
 * Finology Blog's via [Vanshika Bagaria](https://blog.finology.in/author/vanshika-bagaria)
