@@ -3,8 +3,7 @@ layout: default
 ---
 
    Hey QT3.14,   I'm **Suryansh Thakur.** 
-<a id="follow-button" class="btn" title="Follow alphabreacher (@alphabreacher) on Twitter" href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fdeveloper.twitter.com%2F&amp;ref_src=twsrc%5Etfw%7Ctwcamp%5Ebuttonembed%7Ctwterm%5Efollow%7Ctwgr%5ETwitterDev&amp;region=follow_link&amp;screen_name=alphabreacher"><i></i><span class="label" id="l">Follow <b>@alphabreacher</b></span></a>
-<a id="count" class="note" href="https://twitter.com/intent/user?original_referer=https%3A%2F%2Fdeveloper.twitter.com%2F&amp;ref_src=twsrc%5Etfw%7Ctwcamp%5Ebuttonembed%7Ctwterm%5Efollow%7Ctwgr%5ETwitterDev&amp;region=count_link&amp;screen_name=TwitterDev">69M 420K followers</a>
+<a href="https://twitter.com/alphabreacher?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @alphabreacher</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   <br> Wild$T1mes! on 🌏.
 
 <br>**🎓Alma-Mater:** [Kendriya Vidyalaya No.3, DC](https://no3delhicantt.kvs.ac.in/)
