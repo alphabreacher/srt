@@ -2,18 +2,14 @@
 layout: default
 ---
 
-## Welcome to my BLOG
+## My Substack Pick's
 
-_yay_
+* [Index Daily](https://storiesindica.substack.com/) 
 
-```ruby
- Will write and curate sometimes
+* [The Last Bear Standing](https://thelastbearstanding.substack.com/archive?utm_source=menu-dropdown) 
 
-#include
-int main(void)
-{
-printf("hello, world\n");
-}
-```
+* [Mischef Managed](https://mischiefmanaged.substack.com/archive?utm_source=menu-dropdown)  
 
-[back](./)
+* [The Quest Digest](https://thequestpod.substack.com/)
+
+[_yay_ back](./)
