@@ -9,6 +9,7 @@ layout: default
  
 * Finology Blog's via [Vanshika Bagaria](https://blog.finology.in/author/vanshika-bagaria)
 
+* TickerTape [Blog](https://www.tickertape.in/blog/)
 
 ```This section of the blog contains books;
 ```
