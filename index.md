@@ -2,7 +2,7 @@
 layout: default
 ---
 
-   Hey QT3.14  I'm **Suryansh Thakur.** 
+   Hey QT3.14,   I'm **Suryansh Thakur.** 
   <br> Wild$T1mes! on 🌏.
 
 <br>**🎓Alma-Mater:** [Kendriya Vidyalaya No.3, DC](https://no3delhicantt.kvs.ac.in/)
