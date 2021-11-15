@@ -28,8 +28,8 @@ layout: default
 | Github Co-founder                   | [Scott Chacon](http://scottchacon.com/)                                                                              | [chacon](https://twitter.com/chacon?lang=en)                                   |
 | Y-Combinator founder                | [Paul Graham](http://www.paulgraham.com/)                                                                            | [paulg](https://twitter.com/paulg?lang=en)                                     |
 | Wingify founder                     | [Paras Chopra](https://invertedpassion.com/)                                                                         | [paraschopra](https://twitter.com/paraschopra?lang=en)                         |
-| Wolfram Alpha                       | [Stephan Wolfram](https://www.stephenwolfram.com/)                                                                   | [stephan_wolfram](https://twitter.com/stephen_wolfram?lang=en)                 |
-
+| Wolfram Alpha founder               | [Stephan Wolfram](https://www.stephenwolfram.com/)                                                                   | [stephan_wolfram](https://twitter.com/stephen_wolfram?lang=en)                 |
+| Coinbase CEO & co-founder           | [Brian Amstrong](https://www.brianarmstrong.org/)                                                                    | [brian_armstrong](https://twitter.com/brian_armstrong?lang=en)                 |
 
 
 
