@@ -27,6 +27,6 @@ layout: default
 * [HyperPhysics](http://hyperphysics.phy-astr.gsu.edu/hbase/index.html)
 * [ChemCon](http://hyperphysics.phy-astr.gsu.edu/hbase/Chemical/chemcon.html#c1)
 * [BioCon](http://hyperphysics.phy-astr.gsu.edu/hbase/Biology/biocon.html#heacon)
-
+* [Khan Academy](https://www.khanacademy.org/) a free, world-class education to anyone, anywhere.
 
 [_yay_ back](https://srterm.github.io/srt/blog.html)
