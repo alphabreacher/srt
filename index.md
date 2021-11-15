@@ -49,7 +49,7 @@ Visit my [YouTube](https://www.youtube.com/channel/UCQqa01aV7uGL68uYpo2kVkg) & [
 <!--![lifeforce](https://user-images.githubusercontent.com/82106805/137462014-03e5b387-d6a2-44b4-b4f9-241a63353d6d.png)-->
 
           
-           The final element of my mind is this line, in which i conclude my thoughts and my inner workings. Surf midfully :) XOXO
+        The final element of my mind is this line, in which I conclude my thoughts. Surf midfully :) XOXOxoxoxoxoxoxoxoxoxooxoxoxoxoox
            
            
            
