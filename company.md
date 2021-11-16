@@ -19,4 +19,4 @@ layout: default
 7. Steve Wozniak :[Offered Apple-1 design five times to H.P](https://appleinsider.com/articles/10/12/07/apple_co_founder_offered_first_computer_design_to_hp_5_times/amp/)
 
 
-[_yay_ back](https://srterm.github.io/srt/notes.html)
+[_yay_ back](https://srterm.github.io/srt/blog.html)
