@@ -29,4 +29,4 @@ layout: default
 * [BioCon](http://hyperphysics.phy-astr.gsu.edu/hbase/Biology/biocon.html#heacon)
 * [Khan Academy](https://www.khanacademy.org/) a free, world-class education to anyone, anywhere.
 
-[_yay_ back](https://srterm.github.io/srt/blog.html)
+[_yay_ back](https://srterm.github.io/srt/hyperlink.html)
