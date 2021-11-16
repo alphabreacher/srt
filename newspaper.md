@@ -19,4 +19,4 @@ layout: default
 
 
 
-[_yay_ back](https://srterm.github.io/srt/misc.html)
+[_yay_ back](https://srterm.github.io/srt/blog.html)
