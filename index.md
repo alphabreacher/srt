@@ -5,8 +5,8 @@ layout: default
    Hey QT3.14,   I'm **Suryansh Thakur.** 
   <br> ~~Wild$T1mes!~~ on 🌏. <a href="https://twitter.com/alphabreacher?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-screen-name="false" data-show-count="false">Follow @Suryansh Thakur</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-<br>**AlmaMater:** [Kendriya Vidyalaya No.3, DC](https://no3delhicantt.kvs.ac.in/)
-<br> **Majoring In :**  _Biotechnology_.
+<br>**🎓Alma-Mater:** [Kendriya Vidyalaya No.3, DC](https://no3delhicantt.kvs.ac.in/)
+<br> **📝Majoring In :**  _Biotechnology_.
 
 <br>I'm reading [Microeconomics](https://www.youtube.com/playlist?list=PLFNFJbo2hfBGRTCMuroZGykNzacwmAH2L), [Psychology](https://www.youtube.com/playlist?list=PL44ABC9278E2EE706) ,[Web3](https://www.youtube.com/playlist?list=PLxVihxZC42nF_MCN9PTvZMIifRjx9cZ2J), [Varisty](https://zerodha.com/varsity/) & listening [Joe Rogen](https://www.joerogan.com/), [Lex Friedman](https://lexfridman.com/) in my leisure time.
 
