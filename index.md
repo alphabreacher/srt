@@ -8,7 +8,7 @@ layout: default
 <br>**🎓Alma-Mater:** [Kendriya Vidyalaya No.3, DC](https://no3delhicantt.kvs.ac.in/)
 <br> **📝Majoring In :**  _Biotechnology_.
 
- **Currently In:** [Sri Venkateswara College](http://www.svc.ac.in/) at [Delhi University](http://du.ac.in/)
+ **📨📭Currently In:** [Sri Venkateswara College](http://www.svc.ac.in/) at [Delhi University](http://du.ac.in/)
 
 <br>I'm reading [Microeconomics](https://www.youtube.com/playlist?list=PLFNFJbo2hfBGRTCMuroZGykNzacwmAH2L), [Psychology](https://www.youtube.com/playlist?list=PL44ABC9278E2EE706) ,[Web3](https://www.youtube.com/playlist?list=PLxVihxZC42nF_MCN9PTvZMIifRjx9cZ2J), [Varisty](https://zerodha.com/varsity/) & listening [Joe Rogen](https://www.joerogan.com/), [Lex Friedman](https://lexfridman.com/) in my leisure time.
 
