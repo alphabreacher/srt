@@ -16,7 +16,7 @@ I started investing in capital markets since I turned 18, with the help of my br
 
 Here are my reading pick's: [[Growthbug]](https://growthbug.com/) ; [[Index Daily]](https://storiesindica.substack.com/) ; [[The Last Bear Standing]](https://thelastbearstanding.substack.com/archive?utm_source=menu-dropdown) ; [[Mischef Managed]](https://mischiefmanaged.substack.com/archive?utm_source=menu-dropdown) ; [[The Quest Digest]](https://thequestpod.substack.com/) ; [[Product Growth]](https://www.aakashg.com/start-here/) ; [[Inverted Passion]](https://invertedpassion.com/).
 
-Visit my <a href="https://www.youtube.com/channel/UCQqa01aV7uGL68uYpo2kVkg"><img src="assets/img/0E747182-7C47-45FF-B5C9-280B998E534E.png width="100" title="YouTube Channel" alt="alphabreacher"></a> & [Blog](https://srterm.github.io/srt/blog.html) to find out what I’ve been working on recently as well as other updates.
+Visit my [Youtube](https://www.youtube.com/channel/UCQqa01aV7uGL68uYpo2kVkg) & [Blog](https://srterm.github.io/srt/blog.html) to find out what I’ve been working on recently as well as other updates.
 
 * * * * * *
  
