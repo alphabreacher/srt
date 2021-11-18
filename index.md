@@ -48,7 +48,8 @@ Visit my [YouTube](https://www.youtube.com/channel/UCQqa01aV7uGL68uYpo2kVkg) & [
 ![vision](https://user-images.githubusercontent.com/82106805/137462176-895ef62f-a0b7-437e-b9fc-b6ba72ec581b.png)-->
 
 * * * * * *
-<!--![lifeforce](https://user-images.githubusercontent.com/82106805/137462014-03e5b387-d6a2-44b4-b4f9-241a63353d6d.png)-->
+
+<a href="https://open.spotify.com/playlist/02Ty4yyLV7pXpc3LGpQNfR?si=GZLn0-xbRU-dTW78HGNEAQ&nd=1&utm_medium=organic&_branch_referrer=H4sIAAAAAAAAA72N3wqCMByFn2bepeYkI5AQSrsQQbE%2FdBNzag7X9mNu0N4%2BDXqF4FwczsfHGbSGaed5E0jNeusSAJczMXp7ULI1VMcSOuGgIOwN5w%2BjeDwsCsIJCtI5C3Z%2FNpWveQJOLGeTnqsf1Da0Nr9EcAOK8wzKoq8QTieG8CG758JfvZvqvGrra7Q9ZcUxKb9nhPOG0PEvhyjYiHama6fviDaqi6V6EsHoB9EsI0AdAQAA&product=open&%24full_url=https%3A%2F%2Fopen.spotify.com%2Fplaylist%2F02Ty4yyLV7pXpc3LGpQNfR%3Fsi%3DGZLn0-xbRU-dTW78HGNEAQ&feature=organic&_branch_match_id=989827065478992980"><img src="assets/img/95308333-BA44-40B4-9C3D-9B684EDC7B63.png" title="Doprelax" alt="English Playlist" width="700px"></a>
 
           
         The final element of my mind is this line, in which I conclude my thoughts. Surf midfully :) XOXOxoxoxoxoxoxoxoxoxooxoxoxoxoox
