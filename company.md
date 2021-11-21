@@ -18,5 +18,7 @@ layout: default
  
 7. Steve Wozniak :[Offered Apple-1 design five times to H.P](https://appleinsider.com/articles/10/12/07/apple_co_founder_offered_first_computer_design_to_hp_5_times/amp/)
 
+8. Jeff Bezos: [60Minutes 20%](https://www.geekwire.com/2013/jeff-bezos-60-meetings-raise-1m-amazoncom-giving-20-early-investors/)
+
 
 [_yay_ back](https://srterm.github.io/srt/blog.html)
