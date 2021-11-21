@@ -16,7 +16,7 @@ The first & foremost-final element.
 * This blog contain some of my [hyperlink's](https://srterm.github.io/srt/hyperlink.html) which contains a Millennium Falcon like library of [Book; Journal; Movie; Comic; Software]'s.
 
 
-* This blog contains a [bookshelf](https://srterm.github.io/srt/bookshelf.html) & [articles](https://srterm.github.io/srt/company.html) regarding the founder's, their enterprises along with thier personal crises.
+* This blog contains a [bookshelf](https://srterm.github.io/srt/bookshelf.html) & [articles](https://srterm.github.io/srt/articles.html) regarding the founder's, their enterprises along with thier personal crises.
 
 * This blog is a curation of [newspaper cutting's](https://srterm.github.io/srt/newspaper.html) regarding the founder's  personal crises & [failure](https://srterm.github.io/srt/failure.html) via people or in the respective Enterprise.
 
