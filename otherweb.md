@@ -12,7 +12,7 @@ layout: default
 * [Libgen](http://libgen.is/) Library Genesis Server-I                             
            * [Libgen](https://libgen.li/) Server-II                              
 * [NCBI](https://www.ncbi.nlm.nih.gov/) National Center for Biotechnology Information
-
+* [arXiv](https://arxiv.org/) is a free distribution service and an open-access archive for 1,978,588 scholarly articles.
 
 ## Market & Marketing
 
