@@ -25,6 +25,8 @@ Just random stuffs I find interesting or worth putting down because I don’t us
  
 *  [ETH](https://blockchainlab.com/pdf/Ethereum_white_paper-a_next_generation_smart_contract_and_decentralized_application_platform-vitalik-buterin.pdf) whitepaper.
 
+*  [Basis](http://basis.io/basis_whitepaper_en.pdf) A Price-Stable Cryptocurrency with an Algorithmic Central Bank
+
 *  Stanford Encyclopedia of Philosophy: [Dualism](https://plato.stanford.edu/entries/dualism/).
 
 *  Wikipedia: [Eponymous Law's](https://en.m.wikipedia.org/wiki/List_of_eponymous_laws)
