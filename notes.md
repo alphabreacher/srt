@@ -15,6 +15,8 @@ Just random stuffs I find interesting or worth putting down because I don’t us
 
 *  World's richest [people](https://www.forbes.com/real-time-billionaires/#149c9fe03d78) and their [sharehodling](https://www.investopedia.com/articles/investing/012715/5-richest-people-world.asp) pattern.~[Sorces: Forbes & Investopedia]
 
+[info](#){: .btn .btn--info}
+
 *  [TIMELINE OF THE HUMAN CONDITION](https://www.southampton.ac.uk/~cpd/history.html)— Milestones in Evolution and History -
 
 *  World Wide Web [Proposal](https://www.w3.org/Proposal.html)
