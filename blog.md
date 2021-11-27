@@ -23,9 +23,8 @@ The first & foremost-final element.
 
 * This blog contain DRHP & websites of  [Indian Companies](https://srterm.github.io/srt/indian.html) & SEC S-1 & websites of [American Companies](https://srterm.github.io/srt/american.html) I like. 
 
-* A [ScrapBook](https://srterm.github.io/srt/scrapbook.html)
 
-* [Snap's](https://srterm.github.io/srt/pictures.html)
+* My [SnapBook](https://srterm.github.io/srt/pictures.html).
 
 
 * * *
