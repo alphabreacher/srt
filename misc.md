@@ -10,7 +10,7 @@ Randomised thoughts and articles are kept in here, these are awesome.
 ![Teach Yourself Computer Science]({{"/assets/img/76A00926-13B4-43CF-BDB4-7CC14BFF811A.jpeg" | relative_url}})-->
 
 
-* <a href="https://teachyourselfcs.com/#programming"><img src="assets/img/assets/img/76A00926-13B4-43CF-BDB4-7CC14BFF811A.jpeg" title="Teach youself" alt="CS" width="700px"></a>
+* <a href="https://teachyourselfcs.com/#programming"><img src="/assets/img/assets/img/76A00926-13B4-43CF-BDB4-7CC14BFF811A.jpeg" title="Teach youself" alt="CS" width="700px"></a>
 
 * Online Master's in Business Management: [MBA](https://www.learnwithpinglr.com/free-mba-list) curated by [Sahil](https://twitter.com/sahilypatel?lang=en).
 
