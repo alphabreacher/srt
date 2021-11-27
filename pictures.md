@@ -5,6 +5,6 @@ layout: default
 ## SNAPBOOK
 
 
-{% include figure image_path="/assets/snap/me.jpg" alt="stars" caption="My first Navratri." %}{: .tc}
+![My first Navratri]({{ "/assets/snap/me.jpg" | relative_url }})
 
 [_yay_ back](./)
