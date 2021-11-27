@@ -12,7 +12,7 @@ layout: default
 
 ### 2015
 
-![Nana-Nani Home]({{ "/assets/snap/Nana home.jpg" | relative_url }})
+![Nana-Nani Home]({{ "/assets/snap/Nana home.jpg" | relative_url }}) ‎21 ‎May ‎2015, ‏‎06:32:06
 
 
-[_yay_ back](./)
+[_yay_ back](https://srterm.github.io/srt/blog.html)
