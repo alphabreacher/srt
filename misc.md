@@ -9,8 +9,8 @@ Randomised thoughts and articles are kept in here, these are awesome.
 <!-- How to Add photo in this:
 ![Teach Yourself Computer Science]({{"/assets/img/76A00926-13B4-43CF-BDB4-7CC14BFF811A.jpeg" | relative_url}})-->
 
-* ![Teach Yourself Computer Science]({{"/assets/img/76A00926-13B4-43CF-BDB4-7CC14BFF811A.jpeg" | relative_url}})
-   👉🏻[[here]](https://teachyourselfcs.com/#programming)
+ ![Teach Yourself Computer Science]({{"/assets/img/76A00926-13B4-43CF-BDB4-7CC14BFF811A.jpeg" | relative_url}})
+*  👉🏻[[here]](https://teachyourselfcs.com/#programming)
 
 * Online Master's in Business Management: [MBA](https://www.learnwithpinglr.com/free-mba-list) curated by [Sahil](https://twitter.com/sahilypatel?lang=en).
 
@@ -21,7 +21,7 @@ Randomised thoughts and articles are kept in here, these are awesome.
 * [Unskilled and Unaware of It:](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.64.2655&rep=rep1&type=pdf) How Difficulties in Recognizing One's Own
 Incompetence Lead to Inflated Self-Assessments. *pdf*
 
-* How does plastic money i.e [cards](https://razorpay.com/blog/how-online-card-payments-work/) work.
+* How does plastic 💵💸 i.e [cards](https://razorpay.com/blog/how-online-card-payments-work/) work.
 
 * Stephan Hawking's Voice Opensouce Code: [ACAT- Voice](https://github.com/intel/acat/releases)
 
