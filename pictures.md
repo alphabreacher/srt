@@ -2,9 +2,10 @@
 layout: default
 ---
 
-## SNAPBOOK
+## 📸 SNAPBOOK 🎞
 
-## Unknown Dates:
+
+### Unknown Dates:
 ![My first Navratri]({{ "/assets/snap/me.jpg" | relative_url }})
 
 ![Me & my sista]({{ "/assets/snap/mithaNme.JPG" | relative_url }})
