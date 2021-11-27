@@ -26,15 +26,18 @@ The first & foremost-final element.
 * A [ScrapBook](https://srterm.github.io/srt/scrapbook.html)
 
 
+* * *
+
+
 ## ⚙️ What I use
 
 I almost never get asked about what's my setup is or what I use. Nonetheless, here is what I use on daily basis.
 
 ## Coding Software
 
-[Brave](https://brave.com/) - as my personal browser. I also use Chrome and sometimes Safari.
+[~~Brave~~](https://brave.com/) - as my personal browser. I also use Chrome and sometimes Safari.
 
-[Visual Studio Code](https://code.visualstudio.com/) - VS Code it's better.
+[~~Visual Studio Code~~](https://code.visualstudio.com/) - VS Code it's better.
 
 <script src="https://utteranc.es/client.js"
         repo="[srterm/srt]"
