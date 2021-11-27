@@ -114,10 +114,7 @@ layout: default
 ![Upadhya uncle wed1 (9)]({{ "/assets/snap/Upadhya uncle wed1 (9).JPG" | relative_url }})
 ![Upadhya uncle wed1 (10)]({{ "/assets/snap/Upadhya uncle wed1 (10).JPG" | relative_url }})
 ![Upadhya uncle wed1 (11)]({{ "/assets/snap/Upadhya uncle wed1 (11).JPG" | relative_url }})
-![Upadhya uncle wed1 (12)]({{ "/assets/snap/Upadhya uncle wed1 (12).JPG" | relative_url }})
-![Upadhya uncle wed1 (13)]({{ "/assets/snap/Upadhya uncle wed1 (13).JPG" | relative_url }})
-![Upadhya uncle wed1 (14)]({{ "/assets/snap/Upadhya uncle wed1 (14).JPG" | relative_url }})
-![Upadhya uncle wed1 (15)]({{ "/assets/snap/Upadhya uncle wed1 (15).JPG" | relative_url }})
+
 
 
 
