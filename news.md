@@ -16,10 +16,11 @@ Long, NEWSPAPER: North Easr West South Past & Present Events Report. This area s
 * 24/07/2021: I officially graduated from Kendriya Vidyalaya No.3, D.C [94.3%]
 
 * 19/10/2021: May not be able to upload regularly, so hyperlinking my Youtube Playlist's
-    > The following two playlist's are only curated by me:
+    > The following playlist's are only curated by me:
      * Playlist 1: [Founder's](https://www.youtube.com/playlist?list=PLqfZztVaqRUNmJqsQRUgajr8K9EEn0MAu)
      * Playlist 2: [Persistent](https://www.youtube.com/playlist?list=PLqfZztVaqRUMgfpyZpovJldWdPLzhN2C1)
-    
+     * Playlist 3: [Holy Hell](https://youtube.com/playlist?list=PLqfZztVaqRUM84-oTxuheUz3kkaPSYVJA)
+
     > These are created by respective owner's 
     
      * [Product Management](https://www.youtube.com/playlist?list=PL2Jn4_RetiGSNAfIoBVQ-SNrdNME02J5p)      
