@@ -26,7 +26,7 @@ The first & foremost-final element.
 * A [ScrapBook](https://srterm.github.io/srt/scrapbook.html)
 
 
-⚙️ What I use
+## ⚙️ What I use
 
 I almost never get asked about what's my setup is or what I use. Nonetheless, here is what I use on daily basis.
 
