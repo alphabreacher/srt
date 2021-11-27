@@ -38,14 +38,8 @@ I almost never get asked about what's my setup is or what I use. Nonetheless, he
 
 [[Brave]](https://brave.com/) - as my personal browser. I also use Chrome and sometimes Safari.
 
-[[Visual Studio Code]](https://code.visualstudio.com/) - VS Code it's better.
+[[Visual Studio Code]](https://code.visualstudio.com/) - it's better than notepad.
 
-<script src="https://utteranc.es/client.js"
-        repo="[srterm/srt]"
-        issue-term="pathname"
-        theme="preferred-color-scheme"
-        crossorigin="anonymous"
-        async>
-</script>
+
 
 [_yay_ back](./)
