@@ -2,18 +2,9 @@
 layout: default
 ---
 
-## Welcome to my BLOG
+## SNAPBOOK
 
-_yay_
 
-```ruby
- Will write and curate sometimes
+{% include figure image_path="/assets/snap/me.jpg" alt="stars" caption="My first Navratri." %}{: .tc}
 
-#include
-int main(void)
-{
-printf("hello, world\n");
-}
-```
-
-[back](./)
+[_yay_ back](./)
