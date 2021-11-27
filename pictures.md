@@ -2,18 +2,10 @@
 layout: default
 ---
 
-## Welcome to my BLOG
+## SNAPBOOK
 
-_yay_
 
-```ruby
- Will write and curate sometimes
 
-#include
-int main(void)
-{
-printf("hello, world\n");
-}
-```
 
-[back](./)
+
+[_yay_ back](https://srterm.github.io/srt/blog.html)
