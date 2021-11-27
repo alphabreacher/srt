@@ -6,6 +6,7 @@ layout: default
 ```
 Randomised thoughts and articles are kept in here, these are awesome.
 ```
+[Teach Yourself Computer Science](https://teachyourselfcs.com/#programming).
 
 * Online Master's in Business Management: [MBA](https://www.learnwithpinglr.com/free-mba-list) curated by [Sahil](https://twitter.com/sahilypatel?lang=en).
 
