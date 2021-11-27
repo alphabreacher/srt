@@ -25,6 +25,8 @@ The first & foremost-final element.
 
 * A [ScrapBook](https://srterm.github.io/srt/scrapbook.html)
 
+* [Snap's](https://srterm.github.io/srt/pictures.html)
+
 
 * * *
 
