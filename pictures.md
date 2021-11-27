@@ -13,20 +13,30 @@ layout: default
 
 ![Mitha-2]({{ "/assets/snap/mitha2.jpg" | relative_url }})
 
-### 2015
+### 🗓 2015
 
-![Nana-Nani Home]({{ "/assets/snap/Nana home.jpg" | relative_url }}) [‎21 ‎May ‎2015, ‏‎06:32:06]
-![Joonu (2)]({{ "/assets/snap/Joonu (2).jpg" | relative_url }}) [21 ‎May ‎2015, ‏‎06:58:26]
-![chula]({{ "/assets/snap/chula.jpg" | relative_url }}) [‎21 ‎May ‎2015, ‏‎07:13:52]
-![Joonu (1)]({{ "/assets/snap/Joonu (1).jpg" | relative_url }}) [21 ‎May ‎2015, ‏‎12:27:22]
-![mandir]({{ "/assets/snap/mandir.jpg" | relative_url }}) [‎21 ‎May ‎2015, ‏‎15:21:52]
-![cow (2)]({{ "/assets/snap/cow (2).jpg" | relative_url }}) [21 ‎May ‎2015, ‏‎16:18:50]
-![cow (1)]({{ "/assets/snap/cow (1).jpg" | relative_url }}) [‎21 ‎May ‎2015, ‏‎16:19:02]
+* 📅 21 ‎May, 2015
+
+![Nana-Nani Home]({{ "/assets/snap/Nana home.jpg" | relative_url }})
+![Joonu (2)]({{ "/assets/snap/Joonu (2).jpg" | relative_url }})
+![chula]({{ "/assets/snap/chula.jpg" | relative_url }})
+![Joonu (1)]({{ "/assets/snap/Joonu (1).jpg" | relative_url }})
+![mandir]({{ "/assets/snap/mandir.jpg" | relative_url }})
+![cow (2)]({{ "/assets/snap/cow (2).jpg" | relative_url }}) 
+![cow (1)]({{ "/assets/snap/cow (1).jpg" | relative_url }}) 
 
 ![Nana-Nani Home]({{ "/assets/snap/Nana home.jpg" | relative_url }}) [21 ‎May ‎2015, ‏‎06:58:26]
 
 ![Nana-Nani Home]({{ "/assets/snap/Nana home.jpg" | relative_url }}) [21 ‎May ‎2015, ‏‎06:58:26]
 
+
+### 🗓 2016
+
+### 🗓 2017
+
+### 🗓 2018
+
+### 🗓 2019
 
 
 
