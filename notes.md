@@ -40,6 +40,8 @@ Just random stuffs I find interesting or worth putting down because I don’t us
 | Uniswap                      | [UNI](https://uniswap.org/whitepaper-v3.pdf)                                                                                                                                                           |
 | Maker                        | [DAI](https://makerdao.com/whitepaper/White%20Paper%20-The%20Maker%20Protocol_%20MakerDAO%E2%80%99s%20Multi-Collateral%20Dai%20(MCD)%20System-FINAL-%20021720.pdf)                                     |
 
+ * * *
 
+* UniSwap Analysis [pdf](https://web.stanford.edu/~guillean/papers/uniswap_analysis.pdf)
 
 [ _yay_ Home](https://srterm.github.io/srt/)
