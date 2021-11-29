@@ -31,7 +31,14 @@ layout: default
 | Wolfram Alpha founder               | [Stephan Wolfram](https://www.stephenwolfram.com/)                                                                   | [stephan_wolfram](https://twitter.com/stephen_wolfram?lang=en)                 |
 | Coinbase CEO & co-founder           | [Brian Amstrong](https://www.brianarmstrong.org/)                                                                    | [brian_armstrong](https://twitter.com/brian_armstrong?lang=en)                 |
 | OpenAI CEO                          | [Sam Altman](https://blog.samaltman.com/)                                                                            | [sama](https://twitter.com/sama?lang=en)                                       |
-
+| DoorDash Co-founder                 | [Stanley Tang](http://www.stanleytang.com/)                                                                          | [stanleytang](https://twitter.com/stanleytang?lang=en)                         |
+| Partner at a16z                     | [Chris Dixon](https://cdixon.org/)                                                                                   | [cdixon](https://twitter.com/cdixon?lang=en)                                   |
+||||
+||||
+||||
+||||
+||||
+||||
 
 
 [_yay_ back](https://srterm.github.io/srt/blog.html)
