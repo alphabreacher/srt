@@ -15,7 +15,7 @@ layout: default
 
 I started investing in capital markets since I turned 18, with the help of my brother-from-other-mother [Nithin Kamath](https://nithinkamath.me/) through his platform [Zerodha](https://zerodha.com/). If intersted in investing in crypto, do check out my bud [Vitalik](https://vitalik.ca/) and his creation [Ethereum](https://ethereum.org/en/).
 
-Here are my reading pick's:  [[Xkcd]](https://xkcd.com/) ; [[Growthbug]](https://growthbug.com/) ; [[Index Daily]](https://storiesindica.substack.com/) ; [[The Last Bear Standing]](https://thelastbearstanding.substack.com/archive?utm_source=menu-dropdown) ; [[Mischef Managed]](https://mischiefmanaged.substack.com/archive?utm_source=menu-dropdown) ; [[The Quest Digest]](https://thequestpod.substack.com/) ; [[Product Growth]](https://www.aakashg.com/start-here/) ; [[Inverted Passion]](https://invertedpassion.com/) ; [[TheGreySwan]](https://thegreyswan.substack.com/).
+Here are my reading pick's:  [[Xkcd]](https://xkcd.com/) ; [[Growthbug]](https://growthbug.com/) ; [[Index Daily]](https://storiesindica.substack.com/) ; [[The Last Bear Standing]](https://thelastbearstanding.substack.com/archive?utm_source=menu-dropdown) ; [[Mischef Managed]](https://mischiefmanaged.substack.com/archive?utm_source=menu-dropdown) ; [[The Quest Digest]](https://thequestpod.substack.com/) ; [[Product Growth]](https://www.aakashg.com/start-here/) ; [[Inverted Passion]](https://invertedpassion.com/) ; [[TheGreySwan]](https://thegreyswan.substack.com/) ; [[Stratechery]](https://stratechery.com/).
 
 Visit my [Youtube](https://www.youtube.com/channel/UCQqa01aV7uGL68uYpo2kVkg) & [Blog](https://srterm.github.io/srt/blog.html) to find out what I’ve been working on recently as well as other updates.
 
