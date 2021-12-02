@@ -9,11 +9,11 @@ layout: default
 Long, NEWSPAPER: North Easr West South Past & Present Events Report. This area shows everything happening with me till date which I'm able to update,into this database :)).
 ```
 
-* 28/05/2018: I graduated from Class X. [88%](/assets/pdf/CLASS 10.pdf)
+* 28/05/2018: I graduated from Class X. [88%]
 
 * 30/05/2018: [Here](https://www.youtube.com/channel/UCQqa01aV7uGL68uYpo2kVkg) is my Youtube Channel. Subscribe!!
 
-* 24/07/2021: I officially graduated from Kendriya Vidyalaya No.3, D.C [94.3%](/assets/pdf/(Class XII) Results 2021 (1).pdf)
+* 24/07/2021: I officially graduated from Kendriya Vidyalaya No.3, D.C [94.3%]
 
 * 19/10/2021: May not be able to upload regularly, so hyperlinking my Youtube Playlist's
     > The following playlist's are only curated by me:
