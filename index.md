@@ -3,7 +3,7 @@ layout: default
 ---
 
    Hey QT3.14,   I'm **Suryansh Thakur.** 
-  <br> ~~Wild$T1mes!~~ on 🌏. <a href="https://twitter.com/alphabreacher?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-screen-name="false" data-show-count="false">Follow @SRT_ERM</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+  <br> ~~Wild$T1mes!~~ on 🌏. <a href="https://twitter.com/alphabreacher?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-screen-name="false" data-show-count="false">Follow @alphabreacher</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 <br>**🎓Alma-Mater:** [Kendriya Vidyalaya No.3, DC](https://no3delhicantt.kvs.ac.in/)
 <br> **📝Majoring In :**  [_Biotechnology_](https://dbtindia.gov.in/)
