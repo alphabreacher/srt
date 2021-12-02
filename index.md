@@ -33,7 +33,7 @@ Visit my [Youtube](https://www.youtube.com/channel/UCQqa01aV7uGL68uYpo2kVkg) & [
 
 * * * * * *
 
-### 📰 News
+### 🗞 News
 
 * 28/05/2018: I graduated from Class X. [88%]
 * 28/07/2021: I officially graduated from Kendriya Vidyalaya No.3, D.C [94.3%]
