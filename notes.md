@@ -19,8 +19,6 @@ Just random stuffs I find interesting or worth putting down because I don’t us
 
 *  World Wide Web [Proposal](https://www.w3.org/Proposal.html)
 
-*  Thu Jan 8 14:27:40 EST 2009 [Bitcoin v1 ](https://www.metzdowd.com/pipermail/cryptography/2009-January/014994.html)
-
 *  Stanford Encyclopedia of Philosophy: [Dualism](https://plato.stanford.edu/entries/dualism/).
 
 *  Wikipedia: [Eponymous Law's](https://en.m.wikipedia.org/wiki/List_of_eponymous_laws)
@@ -28,20 +26,24 @@ Just random stuffs I find interesting or worth putting down because I don’t us
  * * *
 ### Crypto-Currencies & WhitePaper
 
-|            Currency          |                                                                          Whitepaper                                                                                                                    |                                    LightPaper                                                |
-|:-----------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
-| Bitcoin                      | [BTC](https://bitcoin.org/bitcoin.pdf)                                                                                                                                                                 |                                                                                              |
-| Ethereum                     | [ETH](https://blockchainlab.com/pdf/Ethereum_white_paper-a_next_generation_smart_contract_and_decentralized_application_platform-vitalik-buterin.pdf)                                                  |                                                                                              |
-| Solana                       | [SOL](https://solana.com/solana-whitepaper.pdf)                                                                                                                                                        |                                                                                              |
-| Basic Attention Token        | [BAT](https://basicattentiontoken.org/static-assets/documents/BasicAttentionTokenWhitePaper-4.pdf)                                                                                                     |  [On Token Velocity](https://basicattentiontoken.org/static-assets/documents/token-econ.pdf) |
-| ChainLink                    | [LINK](https://research.chain.link/whitepaper-v2.pdf)                                                                                                                                                  |                                                                                              |
-| PolkaDot                     | [DOT](https://polkadot.network/PolkaDotPaper.pdf)                                                                                                                                                      |  [Lightpaper](https://polkadot.network/Polkadot-lightpaper.pdf)                              |
-| Polygon                      | [MATIC](https://github.com/maticnetwork/whitepaper)                                                                                                                                                    |                                                                                              |
-| Uniswap                      | [UNI](https://uniswap.org/whitepaper-v3.pdf)                                                                                                                                                           |                                                                                              |
-| Maker                        | [DAI](https://makerdao.com/whitepaper/White%20Paper%20-The%20Maker%20Protocol_%20MakerDAO%E2%80%99s%20Multi-Collateral%20Dai%20(MCD)%20System-FINAL-%20021720.pdf)                                     |                                                                                              |
+|            Currency          |                                                                          Whitepaper                                                                                                                    |                                                                                   
+|:-----------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Bitcoin                      | [BTC](https://bitcoin.org/bitcoin.pdf)                                                                                                                                                                 |                                                                                              
+| Ethereum                     | [ETH](https://blockchainlab.com/pdf/Ethereum_white_paper-a_next_generation_smart_contract_and_decentralized_application_platform-vitalik-buterin.pdf)                                                  |                                                                                              
+| Solana                       | [SOL](https://solana.com/solana-whitepaper.pdf)                                                                                                                                                        |                                                                                              
+| Basic Attention Token        | [BAT](https://basicattentiontoken.org/static-assets/documents/BasicAttentionTokenWhitePaper-4.pdf)                                                                        [On Token Velocity](https://basicattentiontoken.org/static-assets/documents/token-econ.pdf) |
+| ChainLink                    | [LINK](https://research.chain.link/whitepaper-v2.pdf)                                                                                                                                                  |                                                                                              
+| PolkaDot                     | [DOT](https://polkadot.network/PolkaDotPaper.pdf)                                                                                                                         [Lightpaper](https://polkadot.network/Polkadot-lightpaper.pdf)                              |
+| Polygon                      | [MATIC](https://github.com/maticnetwork/whitepaper)                                                                                                                                                    |                                                                                              
+| Uniswap                      | [UNI](https://uniswap.org/whitepaper-v3.pdf)                                                                                                                                                           |                                                                                              
+| Maker                        | [DAI](https://makerdao.com/whitepaper/White%20Paper%20-The%20Maker%20Protocol_%20MakerDAO%E2%80%99s%20Multi-Collateral%20Dai%20(MCD)%20System-FINAL-%20021720.pdf)                                     |                                                                                              
 
  * * *
 
+* Thu Jan 8 14:27:40 EST 2009 
+  [Bitcoin v1 ](https://www.metzdowd.com/pipermail/cryptography/2009-January/014994.html)
+
+* Blockchain Consensus Algorithms: [A Survey](https://arxiv.org/pdf/2001.07091.pdf)
 * UniSwap Analysis [pdf](https://web.stanford.edu/~guillean/papers/uniswap_analysis.pdf)
 
 [ _yay_ Home](https://srterm.github.io/srt/)
