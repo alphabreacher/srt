@@ -15,7 +15,10 @@ Long, NEWSPAPER: North Easr West South Past & Present Events Report. This area s
 
 * 24/07/2021: I officially graduated from Kendriya Vidyalaya No.3, D.C [94.3%]
 
-* 19/10/2021: May not be able to upload regularly, so hyperlinking my Youtube Playlist's
+* 17/11/2021: Officially admitted to Sri Venkateswara College at Delhi University 
+
+### Important Announcement 📢 
+ May not be able to upload regularly, so hyperlinking my Youtube Playlist's
     > The following playlist's are only curated by me:
      * Playlist 1: [Founder's](https://www.youtube.com/playlist?list=PLqfZztVaqRUNmJqsQRUgajr8K9EEn0MAu)
      * Playlist 2: [Persistent](https://www.youtube.com/playlist?list=PLqfZztVaqRUMgfpyZpovJldWdPLzhN2C1)
