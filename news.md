@@ -41,6 +41,6 @@ Long, NEWSPAPER: North Easr West South Past & Present Events Report. This area s
 
     
 
-        Unicode symbol for Ethereum is Greek capital letter Xi (Ξ); ⬨ or ⧫.
+       ```Unicode symbol for Ethereum is Greek capital letter Xi (Ξ); ⬨ or ⧫```
 
 [_yay_ back](https://srterm.github.io/srt/)
