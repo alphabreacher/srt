@@ -20,7 +20,9 @@ Long, NEWSPAPER: North Easr West South Past & Present Events Report. This area s
 ### Important Announcement 📢 
 
  May not be able to upload regularly, so hyperlinking my Youtube Playlist's
- > The following playlist's are only curated by me:
+ 
+  > The following playlist's are only curated by me:
+ 
   * Playlist 1: [Founder's](https://www.youtube.com/playlist?list=PLqfZztVaqRUNmJqsQRUgajr8K9EEn0MAu)
   * Playlist 2: [Persistent](https://www.youtube.com/playlist?list=PLqfZztVaqRUMgfpyZpovJldWdPLzhN2C1)
   * Playlist 3: [Holy Hell](https://youtube.com/playlist?list=PLqfZztVaqRUM84-oTxuheUz3kkaPSYVJA)
