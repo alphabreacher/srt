@@ -18,6 +18,7 @@ Long, NEWSPAPER: North Easr West South Past & Present Events Report. This area s
 * 17/11/2021: Officially admitted to Sri Venkateswara College at Delhi University 
 
 ### Important Announcement 📢 
+
  May not be able to upload regularly, so hyperlinking my Youtube Playlist's
     > The following playlist's are only curated by me:
      * Playlist 1: [Founder's](https://www.youtube.com/playlist?list=PLqfZztVaqRUNmJqsQRUgajr8K9EEn0MAu)
