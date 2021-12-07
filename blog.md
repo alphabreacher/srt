@@ -40,6 +40,6 @@ I almost never get asked about what's my setup is or what I use. Nonetheless, he
 
 [[Visual Studio Code]](https://code.visualstudio.com/) - it's better than notepad.
 
-
+[[12ft]](https://12ft.io/) - it removes the paywall & let's you read articles ; recommended by Paras Chopra. 
 
 [_yay_ back](./)
