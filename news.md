@@ -6,16 +6,16 @@ layout: default
 
 
 ```
-Long, NEWSPAPER: North Easr West South Past & Present Events Report. This area shows everything happening with me till date which I'm able to update,into this database :)).
+Long, NEWSPAPER: North East West South Past & Present Events Report. This area shows everything happening with me till date which I'm able to update,into this database :)).
 ```
 
 * 28/05/2018: I graduated from Class X. [88%]
 
 * 30/05/2018: [Here](https://www.youtube.com/channel/UCQqa01aV7uGL68uYpo2kVkg) is my Youtube Channel. Subscribe!!
 
-* 24/07/2021: I officially graduated from Kendriya Vidyalaya No.3, D.C [94.3%]
+* 24/07/2021: I officially graduated from [Kendriya Vidyalaya No.3, DC](https://no3delhicantt.kvs.ac.in/), D.C [94.3%]
 
-* 17/11/2021: Officially admitted to Sri Venkateswara College at Delhi University 
+* 17/11/2021: Officially admitted to [Sri Venkateswara](http://www.svc.ac.in/) at [Delhi University](http://du.ac.in/).
 
 ### Important Announcement 📢 
 
