@@ -50,6 +50,8 @@ Just random stuffs I find interesting or worth putting down because I don’t us
 
 * * *
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3WS9DhSIWR0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="container"> 
+  <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/3WS9DhSIWR0"></iframe>
+</div>
 
 [ _yay_ Home](https://srterm.github.io/srt/)
