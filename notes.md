@@ -48,4 +48,8 @@ Just random stuffs I find interesting or worth putting down because I don’t us
 * Blockchain Consensus Algorithms: [A Survey](https://arxiv.org/pdf/2001.07091.pdf)
 * UniSwap Analysis [pdf](https://web.stanford.edu/~guillean/papers/uniswap_analysis.pdf)
 
+* * *
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3WS9DhSIWR0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 [ _yay_ Home](https://srterm.github.io/srt/)
