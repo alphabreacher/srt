@@ -7,6 +7,10 @@ layout: default
 ```
 The first & foremost-final element.
 ```
+
+![Dev Photo]({{ "/assets/img/19169D56-C3B2-45D1-B3CC-DF2DAEDD35E1.jpeg" | relative_url }})
+
+
 * In this blog, are the [people](https://srterm.github.io/srt/people.html) (there might be Youtube Channels if websites & twitter handle's aren't available on web at the time I'm curating this) who are awesome.
 
 
