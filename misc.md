@@ -34,5 +34,6 @@ Incompetence Lead to Inflated Self-Assessments. *pdf*
 <!--* Google Search Engine Iteration:1-[BackRub](https://web.archive.org/web/20070824233416/http://backrub.c63.be/1997/index.htm)-->
 
 
+![Dev Photo]({{ "/assets/img/996E4831-8CB8-4685-8933-87EAB6A356A3.png" | relative_url }})
 
 [_yay_ back](./)
