@@ -21,6 +21,11 @@ printf("hello, world\n");
 02.
 <script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="durov/171" data-width="100%"></script>
 
+03. 
+Patrick Collison [Advice](https://patrickcollison.com/advice)
+
+04.
+[What Should You Do with Your Life?](https://guzey.com/personal/what-should-you-do-with-your-life/): Directions and Advice
 
 
 ## StartUp Note's
