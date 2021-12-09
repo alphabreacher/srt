@@ -48,4 +48,6 @@ I almost never get asked about what's my setup is or what I use. Nonetheless, he
 
 [[12ft]](https://12ft.io/) - it removes the paywall & let's you read articles ; recommended by Paras Chopra. 
 
+[[ListMonk]](https://listmonk.app/) - Self-hosted newsletter and mailing list manager.
+
 [_yay_ back](./)
