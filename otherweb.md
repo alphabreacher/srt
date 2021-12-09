@@ -14,12 +14,14 @@ layout: default
 * [NCBI](https://www.ncbi.nlm.nih.gov/) National Center for Biotechnology Information
 * [arXiv](https://arxiv.org/) is a free distribution service and an open-access archive for 1,978,588 scholarly articles.
 
-## Market & Marketing
+## Data Statistics
 
 * [Bloomberg Market](https://www.bloomberg.com/markets)
 * [Mad Over Marketing](https://mad-over-marketing.com/)               
 * [Data Insight's](https://www.thebizdom.in/)                        
 * [Visual Capitalist](https://www.visualcapitalist.com/)             
+* [Statista](https://www.statista.com/chartoftheday/)
+
 
 ## Education
 
