@@ -3,13 +3,13 @@ layout: default
 ---
 
    Hey QT3.14,   I'm **Suryansh Thakur.** 
-  <br> ~~Wild$T1mes!~~ on 🌏. <a href="https://twitter.com/alphabreacher?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-screen-name="false" data-show-count="false">Follow @alphabreacher</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+  <br> ~~Wild$T1mes!~~ on 🌏. <a href="https://twitter.com/alphabreacher?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-screen-name="false" data-show-count="true">Follow @alphabreacher</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 <br>**🎓Alma-Mater:** [Kendriya Vidyalaya No.3, DC](https://no3delhicantt.kvs.ac.in/)
 <br> **📝Majoring In :**  [_Biotechnology_](https://dbtindia.gov.in/)
 
  **📍Currently In:** [Sri Venkateswara](http://www.svc.ac.in/) at [Delhi University](http://du.ac.in/)
-<br> **📝Major's:** [_Biochemistry_](https://drive.google.com/drive/folders/1YwFOF-yuSvgR9fHkmRp9_5K2qtuVB03W)
+<br> **📝Major's:** [_Biochemistry_](https://drive.google.com/drive/folders/1YwFOF-yuSvgR9fHkmRp9_5K2qtuVB03W) X **Minor's:** [_Economics_]
 
 <br>I'm reading [Microeconomics](https://www.youtube.com/playlist?list=PLFNFJbo2hfBGRTCMuroZGykNzacwmAH2L), [Psychology](https://www.youtube.com/playlist?list=PL44ABC9278E2EE706) ,[Web3](https://www.youtube.com/playlist?list=PLxVihxZC42nF_MCN9PTvZMIifRjx9cZ2J), [Varisty](https://zerodha.com/varsity/) & listening [Joe Rogen](https://www.joerogan.com/), [Lex Friedman](https://lexfridman.com/) in my leisure time.
 
