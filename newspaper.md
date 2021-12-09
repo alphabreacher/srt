@@ -16,7 +16,7 @@ layout: default
 *  @Nithin0dha [Zerodha Story](https://www.business-standard.com/article/beyond-business/startup-diaries-115050100813_1.html)
 *  @deepigoyal [No rule](https://yourstory.com/2020/02/quotes-zomato-deepinder-goyal/amp)
 *  @mrgirish [How Girish Mathrubootham founded Freshwork](https://www.entrepreneur.com/amphtml/324667).
-
+*  @pmarca [Optimism Is Always the Safest Bet](https://nymag.com/intelligencer/2014/10/marc-andreessen-in-conversation.html)
 
 
 [_yay_ back](https://srterm.github.io/srt/blog.html)
