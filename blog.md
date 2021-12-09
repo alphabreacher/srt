@@ -44,7 +44,7 @@ I almost never get asked about what's my setup is or what I use. Nonetheless, he
 
 [[Brave]](https://brave.com/) - as my personal browser. I also use Chrome and sometimes Safari.
 
-[[Visual Studio Code]](https://code.visualstudio.com/) - it's better than notepad.
+[[Replit]](https://replit.com/~) online IDE better than [[Visual Studio Code]](https://code.visualstudio.com/) - which in turn is better than notepad. :: PS {Mostly Replit}
 
 [[12ft]](https://12ft.io/) - it removes the paywall & let's you read articles ; recommended by Paras Chopra. 
 
