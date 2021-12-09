@@ -27,6 +27,9 @@ printf("hello, world\n");
 * [CS183](https://blakemasters.tumblr.com/post/24578683805/peter-thiels-cs183-startup-class-18-notes)
 
 * [Startup Engineering](https://github.com/ladamalina/coursera-startup)
+
+* [a16z Crypto School](https://a16z.com/crypto-startup-school/)
+
 <!--(https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture0-v3-logistics.pdf)-->
 
 
