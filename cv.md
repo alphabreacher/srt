@@ -4,11 +4,26 @@ layout: default
 
 ## CV
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+## Education
 
-<!--Badge Base-->
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="alphabreacher" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/alphabreacher?trk=profile-badge">Suryansh Thakur</a></div>
+* M.S. in Computer Science, Stanford University, (Artificial Intelligence track)
+* B.S. in Computer Science, Stanford University
+* Phillips Exeter Academy, Cum Laude
               
+## Work experience
+
+
+## Programming Skills
+
+* Web developer: Javascript, React, React-native, Angular, HTML, CSS.
+* Backend developer: Python, Ruby, GoLang, C, C++, Node.js, PHP.
+
+
+## Publications
+
+
+## Service and leadership
+
 
 RESUME:
 [DOCX](https://srterm.github.io/srt/assets/resume.docx)
