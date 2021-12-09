@@ -6,9 +6,8 @@ layout: default
 
 ## Education
 
-* M.S. in Computer Science, Stanford University, (Artificial Intelligence track)
-* B.S. in Computer Science, Stanford University
-* Phillips Exeter Academy, Cum Laude
+* B.S. in Biochemistry, Delhi University
+* Kendriya Vidyalaya [Biotechnology], Summa cum laude
               
 ## Work experience
 
@@ -16,7 +15,7 @@ layout: default
 ## Programming Skills
 
 * Web developer: Javascript, React, React-native, Angular, HTML, CSS.
-* Backend developer: Python, Ruby, GoLang, C, C++, Node.js, PHP.
+* Backend developer: Python, Ruby, C, C++, Node.js, PHP.
 
 
 ## Publications
