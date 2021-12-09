@@ -50,6 +50,14 @@ Just random stuffs I find interesting or worth putting down because I don’t us
 
 * * *
 
+## Web3 Resources 
+* [Questbook](https://questbook.notion.site/Questbook-Learn-Web3-a5f4be8b107f4647a91fe84e6aa7e722)
+
+* [buildspace🦄](https://app.buildspace.so/auth/email)
+
+* [UseWeb3](https://www.useweb3.xyz/)
+
+## Declaration of Independence of Cyberspace 
 <div class="container"> 
   <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/3WS9DhSIWR0"></iframe>
 </div>
