@@ -15,12 +15,14 @@ layout: default
 
 * Almanack of Naval Ravikant: [Web](https://www.navalmanack.com/almanack-of-naval-ravikant/table-of-contents) ; [PDF](https://navalmanack.s3.amazonaws.com/Eric-Jorgenson_The-Almanack-of-Naval-Ravikant_Final.pdf)
 
-* Netter Atlas of Human Anatomy: [PDF](https://h8k20yjw37.pdcdn.xyz/dl2.php?id=158494162&h=a0620415973113da78365e7787a04bd4&u=cache&ext=pdf&n=Atlas%20of%20human%20anatomy)
+* Netter Atlas of Human Anatomy: [PDF](https://h8k20yjw37.pdcdn.xyz/dl2.php?id=158494162&h=a0620415973113da78365e7787a04bd4&u=cache&ext=pdf&n=Atlas%20of%20human%20anatomy) _pdf_
 
-* Delivering Happiness: [PDF](https://kingauthor.net/books/Tony%20Hsieh/Delivering%20Happiness/Delivering%20Happiness%20-%20Tony%20Hsieh.pdf)
+* Delivering Happiness: [PDF](https://kingauthor.net/books/Tony%20Hsieh/Delivering%20Happiness/Delivering%20Happiness%20-%20Tony%20Hsieh.pdf) _pdf_
 
-* [Life's Purpose](https://d3o9bzvr1aje7d.cloudfront.net/blog-subscription/ebooks/v3/Life+Purpose+-+Mark+Manson.pdf) by Mark Manson.
+* [Life's Purpose](https://d3o9bzvr1aje7d.cloudfront.net/blog-subscription/ebooks/v3/Life+Purpose+-+Mark+Manson.pdf) by Mark Manson. _pdf_
 
 * [Principle's of Economics](/assets/pdf/Principles-of-economics-6th-edition-Mankiw.pdf) _pdf_
+
+* [Atlas of protein sequence and structure](/assets/pdf/19660014530.pdf) _pdf_
 
 [_yay_ back](https://srterm.github.io/srt/blog.html)
