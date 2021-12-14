@@ -33,6 +33,11 @@ printf("hello, world\n");
 
 * [a16z Crypto School](https://a16z.com/crypto-startup-school/)
 
+* Teach Yourself Computer Science 👉🏻[[here]](https://teachyourselfcs.com/#programming)
+ ![Teach Yourself Computer Science]({{"/assets/img/76A00926-13B4-43CF-BDB4-7CC14BFF811A.jpeg" | relative_url}})
+
+
+
 <!--(https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture0-v3-logistics.pdf)-->
 
 
