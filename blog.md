@@ -44,4 +44,6 @@ I almost never get asked about what's my setup is or what I use. Nonetheless, he
 
 [[ListMonk]](https://listmonk.app/) - Self-hosted newsletter and mailing list manager.
 
+[[OBS]](https://obsproject.com/) Open Broadcaster Software.
+
 [_yay_ back](./)
