@@ -9,7 +9,7 @@ Randomised thoughts and articles are kept in here, these are awesome.
 <!-- How to Add photo in this:
 ![Teach Yourself Computer Science]({{"/assets/img/76A00926-13B4-43CF-BDB4-7CC14BFF811A.jpeg" | relative_url}})-->
 
-* Online Master's in Business Management: [MBA](https://www.learnwithpinglr.com/free-mba-list) curated by [Sahil](https://twitter.com/sahilypatel?lang=en).
+* Online Master's in Business Management: [MBA](https://www.learnwithpinglr.com/free-mba-list) curated by [Sahil Patel](https://twitter.com/sahilypatel?lang=en).
 
 * Story of [Reliance Industries](https://www.ril.com/TheRelianceStory.aspx)
 
@@ -28,6 +28,7 @@ Incompetence Lead to Inflated Self-Assessments. *pdf*
 
 * Index of [Economic Freedom](https://en.wikipedia.org/wiki/Index_of_Economic_Freedom#Methodology)
 
+* [BitClout](https://bitclout.com/posts/51d94a4c6580d8eaafee3befb3eb882d8a59822e3c892262ab497e07daaf6318?feedTab=Global&tab=posts) Post.
 <!--* Google Search Engine Iteration:1-[BackRub](https://web.archive.org/web/20070824233416/http://backrub.c63.be/1997/index.htm)-->
 
 <blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">Inequality. <a href="https://t.co/OxYj3rdxMO">pic.twitter.com/OxYj3rdxMO</a></p>&mdash; PenPencilDraw (@penpencildraw) <a href="https://twitter.com/penpencildraw/status/1468536212524654596?ref_src=twsrc%5Etfw">December 8, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
