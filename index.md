@@ -21,7 +21,53 @@ Visit my [Youtube](https://www.youtube.com/channel/UCQqa01aV7uGL68uYpo2kVkg) & [
 
 * * * * * *
  
-###  **📈📉 Market-info:** [Nasdaq](https://www.nasdaq.com/market-activity/stocks) ; [NSE](https://www1.nseindia.com/live_market/dynaContent/live_watch/equities_stock_watch.htm) ; [coinbase](https://www.coinbase.com/price)
+###  **📈📉 Market-info:**
+<!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://in.tradingview.com" rel="noopener" target="_blank"><span class="blue-text">Ticker Tape</span></a> by TradingView</div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js" async>
+  {
+  "symbols": [
+    {
+      "proName": "BITSTAMP:BTCUSD",
+      "title": "Bitcoin"
+    },
+    {
+      "proName": "BITSTAMP:ETHUSD",
+      "title": "Ethereum"
+    },
+    {
+      "description": "Nifty",
+      "proName": "NSE:NIFTY"
+    },
+    {
+      "description": "BankNifty",
+      "proName": "NSE:BANKNIFTY"
+    },
+    {
+      "description": "Solana",
+      "proName": "FTX:SOLUSD"
+    },
+    {
+      "description": "Nikkei",
+      "proName": "TVC:NI225"
+    },
+    {
+      "description": "S&P500",
+      "proName": "SP:SPX"
+    }
+  ],
+  "showSymbolLogo": true,
+  "colorTheme": "light",
+  "isTransparent": false,
+  "displayMode": "adaptive",
+  "locale": "in"
+}
+  </script>
+</div>
+<!-- TradingView Widget END -->
+ [Nasdaq](https://www.nasdaq.com/market-activity/stocks) ; [NSE](https://www1.nseindia.com/live_market/dynaContent/live_watch/equities_stock_watch.htm) ; [coinbase](https://www.coinbase.com/price)
 
 * * * * * *
 
