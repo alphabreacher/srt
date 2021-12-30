@@ -27,8 +27,6 @@ The first & foremost-final element.
 
 ## ⚙️ What I use
 
-![Float]({{ "/assets/img/53018F0C-C0ED-4DFC-8E97-2097CD1FC908.jpeg" | relative_url }})
-
 I almost never get asked about what's my setup is or what I use. Nonetheless, here is what I use on daily basis.
 
 ## Coding Software
