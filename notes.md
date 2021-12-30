@@ -4,8 +4,6 @@ layout: default
 
 ## Note's
 
-![Two person]({{ "/assets/img/5369B586-7EB2-4032-BFE1-0E0DDB331015.png" | relative_url }})
-
 Just random stuffs I find interesting or worth putting down because I don’t use bookmark sync 👽. This page is subject to change.
 
 
