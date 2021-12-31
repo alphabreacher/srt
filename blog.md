@@ -7,7 +7,7 @@ layout: default
 ```
 The first & foremost-final element.
 ```
-* My [SnapBook](https://srterm.github.io/srt/pictures.html).
+* My [SnapBook](https://srterm.github.io/srt/pictures.html) & some [IIT Resource's](https://srterm.github.io/srt/iitresource.html).
 
 * In this blog, are the [people](https://srterm.github.io/srt/people.html) (there might be Youtube Channels if websites & twitter handle's aren't available on web at the time I'm curating this) who are awesome.
 
