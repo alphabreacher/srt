@@ -33,7 +33,7 @@ layout: default
 | OpenAI CEO                          | [Sam Altman](https://blog.samaltman.com/)                                                                            | [sama](https://twitter.com/sama?lang=en)                                       |
 | DoorDash Co-founder                 | [Stanley Tang](http://www.stanleytang.com/)                                                                          | [stanleytang](https://twitter.com/stanleytang?lang=en)                         |
 | Partner at a16z                     | [Chris Dixon](https://cdixon.org/)                                                                                   | [cdixon](https://twitter.com/cdixon?lang=en)                                   |
-||||
+| Partner at a16z                     | [Sriram Krishnan](https://sriramk.com/)                                                                              | [sriramk](https://twitter.com/sriramk?lang=en)|
 ||||
 ||||
 ||||
