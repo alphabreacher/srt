@@ -8,3 +8,7 @@ plugins:
   - jekyll-seo-tag
   - jemoji
   - jekyll-last-modified-at
+
+# Optional. The default date format, used if none is specified in the tag.
+  last-modified-at:
+    date-format: '%Y:%B:%A:%d:%S:%R%'
