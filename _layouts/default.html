@@ -16,25 +16,9 @@
    
                  A large office, lots of money, Hell of a travel .
                  Work in Code-Technology & Neurobionics with people I like is definately a plus. I'm the fu#(ing KinG of the world !!!-->
-
-
-          function setModifiedDate() {
-      if (document.getElementById('last-modified')) {
-        fetch("https://api.github.com/repos/{{ site.github.owner_name }}/{{ site.github.repository_name }}/commits?path={{ page.path }}")
-          .then((response) => {
-            return response.json();
-          })
-          .then((commits) => {
-            var modified = commits[0]['commit']['committer']['date'].slice(0,10);
-            if(modified != "{{ page.date | date: "%Y-%m-%d" }}") {
-              document.getElementById('last-modified').textContent = "Last Modified: " + modified;
-            }
-          });
-      }
-    }
-                                                                  
+                                                            
     {% include head-custom.html %}
-    
+    {% last_modified_at %Y:%B:%A:%d:%S:%R %}
     {% if site.google_analytics and jekyll.environment == 'production' %}
     {% include analytics.html %}
     {% endif %}
