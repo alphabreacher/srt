@@ -84,3 +84,8 @@ DEPENDENCIES
 
 BUNDLED WITH
    2.2.3
+
+LAST MODIFIED 
+  group :jekyll_plugins do
+  gem "jekyll-last-modified-at"
+  end
